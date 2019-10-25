@@ -1,0 +1,50 @@
+.container {
+  background-color: darkgray;
+  box-sizing: border-box;
+  box-shadow: 10px 15px 40px -5px rgba(0, 0, 0, 0.5);
+  background-image: url("https://incurable.s3.amazonaws.com/incurable-cover.png");
+  background-size: 100% auto;
+  background-position: center;
+  border-radius: 14px;
+  position: relative;
+  height: 390px;
+  width: 290px;
+  transform-style: preserve-3d;
+  transform: perspective(800px);
+  overflow: hidden;
+}
+.layer {
+  height: 120px;
+  position: absolute;
+  right: 75px;
+  bottom: -50px;
+}
+.layer2 {
+  width: 350px;
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.title {
+  color: white;
+  font-family: Times New Roman, serif;
+  font-size: 60px;
+  line-height: 80px;
+  letter-spacing: 4px;
+  padding-bottom: 30px;
+  position: absolute;
+  text-align: center;
+  bottom: 20px;
+  width: 100%;
+}
+.title b {
+  font-weight: 800;
+  letter-spacing: 12px;
+}
+.title i {
+  text-transform: italic;
+}
+.big {
+  font-size: 90px;
+}

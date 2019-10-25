@@ -2,12 +2,18 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
+import CoverArt from "../components/CoverArt"
+import style from "./styles.module.css"
+
 import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
+    <div className={style.coverArtContainer}>
+      <CoverArt />
+    </div>
     <p>
       Incurable Talents is an original graphic novel written & illustrated by
       Jacqueline Matuszak.

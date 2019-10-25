@@ -43,13 +43,15 @@ const SecondPage = () => (
         marginBottom: `20px`,
       }}
     >
-      Image of Aubry getting ready (pending)
+      Aubry fingers tying shoes, or sunken eyes
     </div>
 
     <p>
       Downstairs, it was frigid and silent as a crypt, pale streaks of dust
       hanging still in air. She could hear voices coming from outside, and
       through a window glazed in white frost, could see the silhouettes of men
+      against the morning light. She squinted at their blurry outlines through
+      the window, trying hopelessly to do a headcount. Five, maybe six?
     </p>
     <p>
       Aubry had to heave the front door open with both hands for it to break
@@ -57,7 +59,7 @@ const SecondPage = () => (
       eyes adjusted, then the jagged outline of the Black Forest and the peaks
       of the Tian Ma broke through the mist. Her first breath of air was so cold
       that a searing pain spread through her lungs, making her cough and pull a
-      cloth bandana over her nose.
+      bandana over her nose.
     </p>
     <p>
       Men that Aubry had never seen before were standing around in the
@@ -67,24 +69,25 @@ const SecondPage = () => (
       before she pressed on to find her father.
     </p>
     <p>
-      It’d snowed overnight, making the trek around the backside of their house
-      particularly difficult. Even wearing snow boots, her feet easily went
-      ankle-deep through the snow. She was panting by the time she found her
-      father, who was lacing heavy bags of grain to the wooly sides of a
-      mountain yak.
+      It’d snowed overnight, making the trek around the house particularly
+      difficult. Even wearing snow boots, her feet easily went ankle-deep
+      through pockets of snow. She was panting by the time she found her father,
+      who was lacing heavy bags of grain to the wooly sides of a mountain yak.
     </p>
     <p>
       “The lordlings aren’t with ya, are they?” he said, without looking up.
     </p>
     <p>
-      Aubry looked over her shoulder, where the men were punting hard balls of
-      snow back and forth. Seven in all, one of them was hit in the neck by a
-      snowball and ran after his attacker with a raised knife.
+      Aubry looked over her shoulder, where she could see the men punting hard
+      balls of snow back and forth. Now that she could see them clearly, she
+      counted seven in all. One of them was hit in the neck by a snowball and
+      ran after his attacker with a raised knife.
     </p>
     <p>“Are they really lords?”</p>
     <p>
       “Lords, <i>shah’s</i>, I don’t pretend to keep track. More boys from down
-      south, just like every year,” he said, adding. “<i>Turistas.</i>”
+      south, just like every year,” he said, adding with a small shrug. “
+      <i>Turistas.</i>”
     </p>
     <p>Tourists.</p>
     <p>
@@ -120,45 +123,47 @@ const SecondPage = () => (
     </div>
 
     <p>
-      “The Gokyo Ri,” he said. “But, tellin ya truthfully, I don’t think they’ll
-      make it as far as the pass,” he frowned, but there was a touch of
-      amusement in his voice. “Have you seen them?”
+      “The Gokyo Ri,” he said. "Although, speakin truthfully, I dunno if they’ll
+      even make it as far as the pass,” he frowned, but there was a touch of
+      amusement in his voice. “I mean. Have you seen them?”
     </p>
     <p>
       Aubry turned over her shoulder to see snowballs flying through the air so
       thick, it looked like fog. Guffaws of laughter cut through the air between
-      the breaks in conversation.
+      the breaks in conversation. She watched their boots sink to the knee, and
+      the ensuing dance as they shook snow out of their shoes, and wondered how
+      long it would take for the first signs of frostbite.
     </p>
     <p>
-      “Oh,” said Aubry, the surprise in her voice obvious. The Gokyo Ri was a
-      near-verticle slot canyon that was especially periolous to cross during
-      the snowmelt. A frigid gust of air blew past, breaking the silence with a
-      howl. “Why there? Who even told them about the pass? Why not go to Shiva
-      Altes? It’s closer.”
+      “How do they even know about the canyon?” said Aubry, the surprise in her
+      voice obvious. The Gokyo Ri was a near-verticle slot canyon that was
+      periolous anytime of year, but during the snowmelt it had a reputation for
+      being downright deadly. A frigid gust of wind blew past, breaking the
+      silence with a low howl. “Why not go to Shiva Altes? If they're trying to
+      take a wolf, or a bear.”
     </p>
     <p>
-      Her father shook his head. “They’re following the herds. The boys got it
-      in their head that that’s what they want to do,” he shrugged. “And their
-      money’s good, so...?”
+      Her father shook his head. “They’re following the herds, got it in their
+      head that that’s where they want to go,” he shrugged. “And their money’s
+      good, so who are we to argue?”
     </p>
     <p>
       Aubry’s mouth drew into a thin line, but she didn’t say anything. The
       herds of Markhorein that roamed the Tian Ma attracted similar clientelle
       every spring, their coiled antlers and lion-like manes and tails appearing
       only in glimpses through the dense woodlands as they descended the rocky
-      cliffs for the grassy meadows that bloomed, fed by melting snow. The
-      upperclass traveled as far as the Royal City for the opportunity to bring
-      down one of the beasts themselves, spurred on by local legends.
+      cliffs for the grassy meadows that bloomed in the springtime, fed by
+      melting snow. The upperclass traveled as far as the Royal City for the
+      opportunity to bring down one of the beasts themselves, spurred on by
+      local legends.
     </p>
     <p>
       Three more yaks were leaden down with supplies and pack harnesses, their
       long fur blowing like a skirt in the wind. They bobbed their heads up and
       down at the same moment Aubry heard crunches of snow and turned to see the
-      lordlings walking toward them. Her father had met them in town, she knew
-      that much. He’d told her the night before to expect them, but that was
-      all. She watched their boots sink to the knee, and the ensuing dance as
-      they shook snow out of their shoes, and wondered how long it would take
-      for the first signs of frostbite.
+      lordlings walking toward them. Her father had met the boys in town, she
+      knew that much. He’d told her the night before to expect them, but that
+      was all she knew.
     </p>
 
     {/* The image component thingy */}
@@ -178,40 +183,54 @@ const SecondPage = () => (
     <p>
       “Probably the Royal City, same as the rest,” said her father, nodding at
       the dark blue tint of their cloaks, even in the sunlight. "That’s the
-      right colors, anyway." Wiping sweat from his brow with a dirty rag, her
-      father waved at them convivally, plastering a smile on his face.
+      right colors, anyway. Magicerene blue, I'd recognize it anywhere. I still
+      remember the factories that made the stuff in town, stinks to high
+      heaven." Wiping sweat from his brow with a dirty rag, her father waved at
+      them convivally, plastering a smile on his face.
     </p>
-    <p>“Mornin, boys. Fine day for a little traipse in the woods, isn’t it?”</p>
+    <p>“Mornin, boys. Fine day for a little walk in the woods, isn’t it?”</p>
     <p>
-      “Indeed,” said a serious-looking man with black hair and a long, flowing
-      cloak. He wore a sash over one shoulder and Aubry could see the handle of
-      a fine blade protruding from a scabbard on his waist. Her eyes lingered on
-      the glittering blue stones inlaid into the steel.
+      “Perhaps,” said a serious-looking man with black hair and a long, flowing
+      cloak. He wore a sash over one shoulder and Aubry could see a fine blade
+      protruding from a scabbard at his waist. Her eyes lingered on a circle of
+      glittering blue stones inlaid into the handle.
     </p>
     <p>
-      Another man walked beside him, although he looked much younger. Wisps of
-      red hair were visible under the hood of his cloak, which was even finer
-      than his friends, if that was possible. Tufts of wolf fur decorated the
-      collar, and silver buttons ran all the way to his waist.
+      Another man walked beside him, although he looked much younger, he had a
+      heavy-looking rifle strapped to one shoulder. Wisps of red hair were
+      visible under the hood of his cloak, which was even finer than his
+      friends. Trimmed in blond wolf fur and decorated in silver buttons, it
+      gave him an air of regality that his face alone did not posess. silver
     </p>
+    <div
+      style={{
+        background: `lightGray`,
+        marginLeft: `-20px`,
+        marginRight: `-20px`,
+        marginBottom: `20px`,
+      }}
+    >
+      Elsa + Charles standing, talking to Astly (white to white, no fade)
+    </div>
     <p>“How far to the pass?” said the older of the two.</p>
     <p>
       “We’ll make it tonight and lay camp, the herds wont descend til morning.”
     </p>
-    <p>“How sure are you we’ll find them?”</p>
+    <p>“How sure are you that we’ll even find them? The woods are endless.”</p>
     <p>
       Her father smiled disarmingly. “Been doing this since before you were
-      born, lad. The herds follow the seasons like a clock.”
+      born, lad. You leave that part to me.”
     </p>
     <p>
-      The man stared at her father suspiciously, searching his face for any hint
-      of doubt, before his friend clapped his hands together and smiled.
+      He stared at her father suspiciously, searching his face for any hint of
+      mistruth, before his friend clapped him on the shoulder and smiled in an
+      effort to break the tension.
     </p>
     <p>“What’s the matter, Elsa? Sounds alright to me.”</p>
     <p>
       The man, who was apparently called Elsa, turned to his friend and said, “I
-      don’t like these woods, <i>shahzade</i>. I’ve heard the stories, one night
-      in the Black Forest is a night too many.”
+      don’t like these woods, <i>shahzade</i>. I’ve heard the stories. Trust me,
+      one night in the Black Forest is a night too many.”
     </p>
     <p>“But where’s your sense of adventure?”</p>
     <p>
@@ -219,6 +238,21 @@ const SecondPage = () => (
       mood,” he sniffed, turning back to her father with an outstretched glove.
       “Alright, then. One night.”
     </p>
+    <p>
+      "Astly Fauchard," beamed her father, before turning back to finish tacking
+      up. "And don't believe all the stories, it's just trees, same as any other
+      wood."
+    </p>
+    <div
+      style={{
+        background: `lightGray`,
+        marginLeft: `-20px`,
+        marginRight: `-20px`,
+        marginBottom: `20px`,
+      }}
+    >
+      Elsa + Astly shake hands, closeup on hands 😩
+    </div>
 
     {/* The image component thingy */}
     <div
@@ -235,10 +269,10 @@ const SecondPage = () => (
       </p>
       <p>
         Before Aubry knew it, they were wheeling out of the driveway, snow
-        spraying the streets on either side of the hurcha. It was mid-morning,
-        but they passed no one on their way out of town. The only signs of life
-        were the tendrils of smoke curling from the tiny hamlet of houses
-        dotting the mountainside, and the ocassional pastured yak.
+        spraying the streets on either side of the yaks. It was still early in
+        the morning, and they passed no one on their way out of town. The only
+        signs of life were the tendrils of smoke curling from the tiny hamlet of
+        Ledak, and the ocassional pastured steer.
       </p>
     </div>
 
@@ -344,8 +378,19 @@ const SecondPage = () => (
     </div>
     <p>
       (The whole making camp & drinking scene. Aubry has her first ever drink
-      then sees cat-people in the woods.)
+      then sees cat-people in the woods. She thinks shes hallucinating, and goes
+      back to camp, telling no one.)
     </p>
+    <div
+      style={{
+        background: `lightGray`,
+        marginLeft: `-20px`,
+        marginRight: `-20px`,
+        marginBottom: `20px`,
+      }}
+    >
+      Aubrys first drink, firelight in background
+    </div>
     <p>
       They followed the river downstream when then they heard a low noise, like
       the rattling of an engine. Marten stopped in his tracks before throwing
@@ -378,7 +423,6 @@ const SecondPage = () => (
       markhorein calf?)
     </div>
     <p>
-      Aubry gaped at them. They were circling each other with their teeth bared.
       One of them, the larger of the two, had eight plush mountain hares thrown
       over his shoulder. Aubry could see their noses, streaked with bright red
       blood.
