@@ -5,11 +5,11 @@ import Layout from "../components/layout"
 import IntroImage from "../components/introimage"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import style from "./1-the-black-forest-styles.module.css"
 
 const SecondPage = () => (
   <Layout>
     <SEO title="Incurable Talents - 1. The Gokyo Ri" />
-
     {/* The image component thingy */}
     <div
       style={{
@@ -21,8 +21,7 @@ const SecondPage = () => (
     >
       <IntroImage />
     </div>
-
-    <h1>1. The Black Forest</h1>
+    <h1 className={style.red}>1. The Black Forest</h1>
     <h2>Aubry</h2>
     <p>It’d been a cruel winter, but finally, the ice was melting.</p>
     <p>
@@ -33,7 +32,6 @@ const SecondPage = () => (
       She pocketed a small knife from her bedside table and rubbed her hands
       together to stave off the morning chill before reaching for the door.
     </p>
-
     {/* The image component thingy */}
     <div
       style={{
@@ -45,7 +43,6 @@ const SecondPage = () => (
     >
       Aubry fingers tying shoes, or sunken eyes
     </div>
-
     <p>
       Downstairs, it was frigid and silent as a crypt, pale streaks of dust
       hanging still in air. She could hear voices coming from outside, and
@@ -109,7 +106,6 @@ const SecondPage = () => (
       kept them both lean as dogs. He glanced over her shoulder to double-check
       that their clientelle were well out of earshot.
     </p>
-
     {/* The image component thingy */}
     <div
       style={{
@@ -121,7 +117,6 @@ const SecondPage = () => (
     >
       Image of Astly Fauchard, over the withers of a yak. Background yaks.
     </div>
-
     <p>
       “The Gokyo Ri,” he said. "Although, speakin truthfully, I dunno if they’ll
       even make it as far as the pass,” he frowned, but there was a touch of
@@ -165,7 +160,6 @@ const SecondPage = () => (
       knew that much. He’d told her the night before to expect them, but that
       was all she knew.
     </p>
-
     {/* The image component thingy */}
     <div
       style={{
@@ -177,9 +171,7 @@ const SecondPage = () => (
     >
       Lordly snowball fight, in the distance (white/white)
     </div>
-
     <p>“Where’d they even come from?”</p>
-
     <p>
       “Probably the Royal City, same as the rest,” said her father, nodding at
       the dark blue tint of their cloaks, even in the sunlight. "That’s the
@@ -253,29 +245,122 @@ const SecondPage = () => (
     >
       Elsa + Astly shake hands, closeup on hands 😩
     </div>
-
-    {/* The image component thingy */}
-    <div
-      style={{
-        background: `linear-gradient(white, #bbf4fb)`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        padding: `20px`,
-      }}
-    >
-      <p style={{ marginTop: `0px` }}>
-        They clasped hands, her fathers calloused fingers enveloping Elsa's soft
-        black lambskin gloves.
-      </p>
-      <p>
-        Before Aubry knew it, they were wheeling out of the driveway, snow
-        spraying the streets on either side of the yaks. It was still early in
-        the morning, and they passed no one on their way out of town. The only
-        signs of life were the tendrils of smoke curling from the tiny hamlet of
-        Ledak, and the ocassional pastured steer.
-      </p>
+    <p style={{ marginTop: `0px` }}>
+      They clasped hands, her fathers calloused fingers enveloping Elsa's soft
+      black lambskin gloves.
+    </p>
+    <p>
+      Before Aubry knew it, they were wheeling out of the driveway, snow
+      spraying the streets on either side of the yaks. It was still early in the
+      morning, and they passed no one on their way out of town. The only signs
+      of life were the tendrils of smoke curling from the tiny hamlet of Ledak,
+      and the ocassional pastured steer.
+    </p>
+    <div className={style.YaksOnHill}>
+      <img src="https://incurable.s3.amazonaws.com/YaksBackground.png" />
+      <img
+        class={style.YaksLightBeam}
+        src="https://incurable.s3.amazonaws.com/YaksLightBeams.png"
+      />
+      <img
+        class={style.Yaks}
+        src="https://incurable.s3.amazonaws.com/Yaks.png"
+      />
+      <img
+        class={style.YaksPageTear}
+        src="https://incurable.s3.amazonaws.com/YaksPageTear.png"
+      />
+      <img
+        class={style.YaksSnow}
+        src="https://incurable.s3.amazonaws.com/YaksSnow.png"
+      />
     </div>
-
+    <p style={{ marginTop: `0px` }}>
+      The ancient, dark pines of the Black Forest loomed over them, seemingly as
+      tall as mountains. Heavy mists pooled around the trunks already piled with
+      snow, obscuring everything. Slipping through the treeline felt like
+      passing through a curtain to another world entirely, on one side the quiet
+      village of Ledak, and on the other, all of nature’s stage.
+    </p>
+    <p>
+      Although she was small and scrawny, Aubry was fast and strong and easily
+      kept up with Marten in the woods. Having spent most of her time back home
+      racing up and down the uneven stone streets of Carvalo with her friends,
+      the knobbly undergrowth of the Black Forest was a welcome challenge. It’d
+      taken her a little while to get used to wearing boots with metal spikes in
+      them, but now she could scale the snowy ridges with the ease of a goat.
+    </p>
+    <p>
+      It was a long walk on a familiar trail, the snow already packed to ice.
+      Her father lead the lordlings deeper into the woods, slipping and sinking
+      into the snow, while Aubry brought up the rear, nothing but the sound of
+      their own footsteps setting a steady pace through the woods. It was eerily
+      quiet in the Black Forest, winter blotting out the familiar sounds of
+      animals or insects. The near-permanent fog dampened everything from the
+      suns rays, to the sound of their own breathing, and the trees grew so
+      close together that even the echo of their voices were absorbed.
+    </p>
+    <p>“How’d you even find this place?”</p>
+    <p>
+      “Everything needs water to survive, the animals, us,” her father was
+      picking out a path where chunks of tree trunks had been cut away by a
+      machete, a crude system for marking the trail. “There’s snow everywhere,
+      but they’re all attracted to flowing water. In the summer it’s a little
+      more perilous, as the banks flood, and during the winter half the river
+      freeezs over, so what you’re really waiting for is the melt.”
+    </p>
+    <p>
+      After a while, Aubry could hear the crush of falling water, and she knew
+      that they were near the canyon. The trees thinned and they found
+      themselves overlooking the first waterfall of the canyon. Glimmering black
+      stone, dusted with snow and icicles plunged hundreds of feet into
+      impenetrable fog. It was another hour of hiking down to the base of the
+      falls, and another hour after that before they reached the wider, calmer
+      banks where they could set up camp and wait.
+    </p>
+    <p style={{ marginTop: `0px`, color: `white` }}>
+      The ancient, dark pines of the Black Forest loomed over them, seemingly as
+      tall as mountains. Heavy mists pooled around the trunks already piled with
+      snow, obscuring everything. Slipping through the treeline felt like
+      passing through a curtain to another world entirely, on one side the quiet
+      village of Ledak, and on the other, all of nature’s stage.
+    </p>
+    <p>
+      Although she was small and scrawny, Aubry was fast and strong and easily
+      kept up with Marten in the woods. Having spent most of her time back home
+      racing up and down the uneven stone streets of Carvalo with her friends,
+      the knobbly undergrowth of the Black Forest was a welcome challenge. It’d
+      taken her a little while to get used to wearing boots with metal spikes in
+      them, but now she could scale the snowy ridges with the ease of a goat.
+    </p>
+    <p>
+      It was a long walk on a familiar trail, the snow already packed to ice.
+      Her father lead the lordlings deeper into the woods, slipping and sinking
+      into the snow, while Aubry brought up the rear, nothing but the sound of
+      their own footsteps setting a steady pace through the woods. It was eerily
+      quiet in the Black Forest, winter blotting out the familiar sounds of
+      animals or insects. The near-permanent fog dampened everything from the
+      suns rays, to the sound of their own breathing, and the trees grew so
+      close together that even the echo of their voices were absorbed.
+    </p>
+    <p>“How’d you even find this place?”</p>
+    <p>
+      “Everything needs water to survive, the animals, us,” her father was
+      picking out a path where chunks of tree trunks had been cut away by a
+      machete, a crude system for marking the trail. “There’s snow everywhere,
+      but they’re all attracted to flowing water. In the summer it’s a little
+      more perilous, as the banks flood, and during the winter half the river
+      freeezs over, so what you’re really waiting for is the melt.”
+    </p>
+    <p>
+      After a while, Aubry could hear the crush of falling water, and she knew
+      that they were near the canyon. The trees thinned and they found
+      themselves overlooking the first waterfall of the canyon. Glimmering black
+      stone, dusted with snow and icicles plunged hundreds of feet into
+      impenetrable fog. It was another hour of hiking down to the base of the
+      falls, and another hour after that before they reached the wider, calmer
+      banks where they could set up camp and wait.
+    </p>
     <div
       style={{
         background: `lightGray`,
@@ -283,63 +368,7 @@ const SecondPage = () => (
         marginRight: `-20px`,
         marginBottom: `0px`,
       }}
-    >
-      <Image />
-    </div>
-
-    <div
-      style={{
-        background: `linear-gradient(#1a1f1c, 95%, white)`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        padding: `20px`,
-      }}
-    >
-      <p style={{ marginTop: `0px`, color: `white` }}>
-        The ancient, dark pines of the Black Forest loomed over them, seemingly
-        as tall as mountains. Heavy mists pooled around the trunks already piled
-        with snow, obscuring everything. Slipping through the treeline felt like
-        passing through a curtain to another world entirely, on one side the
-        quiet village of Ledak, and on the other, all of nature’s stage.
-      </p>
-      <p style={{ color: `white` }}>
-        Although she was small and scrawny, Aubry was fast and strong and easily
-        kept up with Marten in the woods. Having spent most of her time back
-        home racing up and down the uneven stone streets of Carvalo with her
-        friends, the knobbly undergrowth of the Black Forest was a welcome
-        challenge. It’d taken her a little while to get used to wearing boots
-        with metal spikes in them, but now she could scale the snowy ridges with
-        the ease of a goat.
-      </p>
-      <p style={{ color: `white` }}>
-        It was a long walk on a familiar trail, the snow already packed to ice.
-        Her father lead the lordlings deeper into the woods, slipping and
-        sinking into the snow, while Aubry brought up the rear, nothing but the
-        sound of their own footsteps setting a steady pace through the woods. It
-        was eerily quiet in the Black Forest, winter blotting out the familiar
-        sounds of animals or insects. The near-permanent fog dampened everything
-        from the suns rays, to the sound of their own breathing, and the trees
-        grew so close together that even the echo of their voices were absorbed.
-      </p>
-      <p style={{ color: `white` }}>“How’d you even find this place?”</p>
-      <p style={{ color: `white` }}>
-        “Everything needs water to survive, the animals, us,” her father was
-        picking out a path where chunks of tree trunks had been cut away by a
-        machete, a crude system for marking the trail. “There’s snow everywhere,
-        but they’re all attracted to flowing water. In the summer it’s a little
-        more perilous, as the banks flood, and during the winter half the river
-        freeezs over, so what you’re really waiting for is the melt.”
-      </p>
-      <p style={{ color: `white` }}>
-        After a while, Aubry could hear the crush of falling water, and she knew
-        that they were near the canyon. The trees thinned and they found
-        themselves overlooking the first waterfall of the canyon. Glimmering
-        black stone, dusted with snow and icicles plunged hundreds of feet into
-        impenetrable fog. It was another hour of hiking down to the base of the
-        falls, and another hour after that before they reached the wider, calmer
-        banks where they could set up camp and wait.
-      </p>
-    </div>
+    ></div>
     <div
       style={{
         background: `lightGray`,
@@ -365,7 +394,6 @@ const SecondPage = () => (
       mountains to hide in, and few other animals could brave the treacherous
       ledges of the slot canyon besides them.
     </p>
-
     <div
       style={{
         background: `lightGray`,

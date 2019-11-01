@@ -3,8 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import CoverArt from "../components/CoverArt"
-import style from "./styles.module.css"
-
+import style from "./index-styles.module.css"
 import Image from "../components/image"
 import SEO from "../components/seo"
 

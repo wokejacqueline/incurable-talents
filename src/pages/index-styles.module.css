@@ -1,3 +1,6 @@
+body {
+  /* background: linear-gradient(#695f64, #695f64, #2d2828); */
+}
 .coverArtContainer {
   align-content: center;
   display: flex;
