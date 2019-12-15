@@ -5,26 +5,29 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `gray`,
-      textAlign: `center`,
+      background: `transparent`,
+      position: `fixed`,
+      textAlign: `left`,
+      zIndex: `9`,
     }}
   >
     <div
       style={{
         margin: `0 auto`,
         maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        padding: `0.8rem 1.0875rem`,
       }}
     >
       <h2 style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `rgba(0,0,0, 0.4)`,
+            fontSize: `16px`,
             textDecoration: `none`,
           }}
         >
-          Incurable Talents
+          Incurable <span style={{ fontWeight: `700` }}>Talents</span>
         </Link>
       </h2>
     </div>

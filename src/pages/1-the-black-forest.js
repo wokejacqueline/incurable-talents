@@ -9,7 +9,7 @@ import style from "./1-the-black-forest-styles.module.css"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Incurable Talents - 1. The Gokyo Ri" />
+    <SEO title="1. The Gokyo Ri" />
     {/* The image component thingy */}
     <div
       style={{
@@ -21,16 +21,41 @@ const SecondPage = () => (
     >
       <IntroImage />
     </div>
-    <h1 className={style.red}>1. The Black Forest</h1>
-    <h2>Aubry</h2>
-    <p>It’d been a cruel winter, but finally, the ice was melting.</p>
+    <h1>1. The Black Forest</h1>
+    <h2>Aubre</h2>
     <p>
-      The signs of the seven-month freeze were still evident in Aubry’s shaky
-      fingers as she laced her boots, the dirty-looking circles smeared beneath
-      her brown eyes. Starvation and frostbite gripped the small mountain town
-      of Ledak in a vice, but with the melt came the promise of good hunting.
-      She pocketed a small knife from her bedside table and rubbed her hands
-      together to stave off the morning chill before reaching for the door.
+      “I can’t see nothin, papa,” said Aubre as she stared up the sheer gray
+      canyon walls of the Gokyo Ri. “It's too steep and-” a thin beam of
+      sunlight managed to break through the dark clouds encircling the peaks of
+      the Tian Ma. “We’re losing the light.”
+    </p>
+    <p>
+      Behind her, a string of woolly yaks shifted from hoof to hoof while she
+      deliberated. They’d spent three nights in the Black Forest without as much
+      as a glimpse of the Markhorein herds they were after. She was beginning to
+      think they wouldn’t find them at all, until she’d seen a few females lying
+      on rocky outcropping not far from camp this morning - but that was hours
+      ago.
+    </p>
+    <p>
+      Now that they'd hiked halfway around the mountain to get a better shot at
+      the animals, they were gone, and the ledge was empty.
+    </p>
+    <p>
+      She heard boots crunching through the snow and a moment later there was a
+      steadying hand on her shoulder. Aubre looked up to see her fathers dark
+      eyes fixated on a frozen waterfall cascading down from overhead, the icy
+      spikes of water cutting through the mist like daggers.
+    </p>
+    <p>
+      <i>“Dedre”</i> he cursed. “The beasts could’ve gone up, down, or sideways
+      for all we know.”
+    </p>
+    <p>
+      His voice was muffled by the bandana he wore over his nose and mouth, but
+      Aubre could still hear the urgency. The trees in the surrounding woods
+      began to tremble as another storm passed overhead, bigger than the last,
+      and moving across the sky as if it were something alive.
     </p>
     {/* The image component thingy */}
     <div
@@ -41,70 +66,81 @@ const SecondPage = () => (
         marginBottom: `20px`,
       }}
     >
-      Aubry fingers tying shoes, or sunken eyes
+      Tiny people standing against a storm coming into the Gokyo Ri from the
+      highest peak in the Tian Ma (Nhenya)
     </div>
     <p>
-      Downstairs, it was frigid and silent as a crypt, pale streaks of dust
-      hanging still in air. She could hear voices coming from outside, and
-      through a window glazed in white frost, could see the silhouettes of men
-      against the morning light. She squinted at their blurry outlines through
-      the window, trying hopelessly to do a headcount. Five, maybe six?
+      Her father stooped in the snow to hunt for clues, turning up a few clumps
+      of shed hair while Aubre scanned the cliffs. This high in the mountains,
+      it seemed impossible to sustain creatures as large as Markhorein, let
+      alone provide enough cover for them to disappear. The walls of the Gokyo
+      Ri were made of slick gray stone with almost no vegetation that wasn't
+      buried by five feet of packed snow. Yet the animals had vanished, the
+      gentle snowfall erasing any trace they'd ever been there at all.
     </p>
     <p>
-      Aubry had to heave the front door open with both hands for it to break
-      free of the ice. The world was completely white for several moments as her
-      eyes adjusted, then the jagged outline of the Black Forest and the peaks
-      of the Tian Ma broke through the mist. Her first breath of air was so cold
-      that a searing pain spread through her lungs, making her cough and pull a
-      bandana over her nose.
+      Before long, a stream of voices piped up behind them. <i>Too loud</i>,
+      thought Aubre. Now that they were out of the dense-growing wood of the
+      forest, the noise carried through the canyon, echoing back at them from
+      the ice.
     </p>
     <p>
-      Men that Aubry had never seen before were standing around in the
-      snow-covered front lawn, wearing heavy cloaks trimmed with rabbit fur.
-      Expensive clothes, much nicer than anything anyone wore around here. Her
-      eyes lingered on their soft leather boots, now encrusted in snow and ice
-      before she pressed on to find her father.
+      “Your sure this is the right place, Astly?” said a man as he picked his
+      way toward Aubre's father, giving wide berth to the yaks standing in the
+      middle of the trail. Like the other two men her father was guiding, he was
+      dressed in a deep blue coat and black boots, and looked frozen near to the
+      bone.
     </p>
     <p>
-      It’d snowed overnight, making the trek around the house particularly
-      difficult. Even wearing snow boots, her feet easily went ankle-deep
-      through pockets of snow. She was panting by the time she found her father,
-      who was lacing heavy bags of grain to the wooly sides of a mountain yak.
+      "Nothing could possibly live here," continued the man, a puff of ice
+      disappearing on the air.
     </p>
     <p>
-      “The lordlings aren’t with ya, are they?” he said, without looking up.
+      Standing, her father shot him a look. Astly Fauchard was an older man,
+      past sixty, but years of guiding hunters through the forest had kept him
+      lean and alert as a greyhound. The elements were hostile and the hunting
+      season slim, but according to him, guiding tourists through the Black
+      Forest beat his days serving in the Land Army by a long shot. Still, the
+      demanding hiking required to bag a Markhorein stag could bring out the
+      worst in folks, and he was no stranger to the lordlings from down south
+      trying to hurry things along.
+    </p>
+    <p>"Been doing this since before you were born," he said flatly.</p>
+    <p>
+      "I'm just saying. It's been days and we've seen nothing," the man
+      complained. "My knees are going to give way before we find the wretched
+      creatures."
     </p>
     <p>
-      Aubry looked over her shoulder, where she could see the men punting hard
-      balls of snow back and forth. Now that she could see them clearly, she
-      counted seven in all. One of them was hit in the neck by a snowball and
-      ran after his attacker with a raised knife.
+      "I promised your lord son a shot, and he'll get that," said Astly, turning
+      slowly on his heel, as if the Markhorein would suddenly materialize out of
+      the rocks.
     </p>
-    <p>“Are they really lords?”</p>
+    <p>The man blinked. "He's not my son, he's-"</p>
     <p>
-      “Lords, <i>shah’s</i>, I don’t pretend to keep track. More boys from down
-      south, just like every year,” he said, adding with a small shrug. “
-      <i>Turistas.</i>”
-    </p>
-    <p>Tourists.</p>
-    <p>
-      Aubry walked around the yak to get a better look at the supplies. Grain
-      and rolled grass bales were lashed around the animals back, alongside
-      sacks of beans and bacon rashers and wolf furs. Balanced on a makeshift
-      wooden saddle, they were all signs of an impending trek into the woods,
-      and quite a lengthy one by the looks of things.
+      "Don't really think I need the details of the family tree, eh?" he said
+      pointedly, in a tone that made the man fall quiet. "Now, keep down or
+      you'll scare off the game."
     </p>
     <p>
-      “Where do they want to go?” said Aubry, helping secure a leather girth
-      around the animals midriff. It snorted, but kept digging through the snow
-      in search of grass, unperturbed.
+      The man didn't seem satisfied with this answer, but they had little
+      choice. Miles from Ledak, it was up to the Fauchard's to guide them safely
+      through the wilderness. There were no trails and no signs of life except
+      for the few clues Aubre and her father scry out of the snow, and those
+      were disappearing by the second.
+    </p>
+    <p>“I don’t like it,” said Aubre in a voice only her father could hear.</p>
+    <p>
+      He shot her an imploring glance. "Not you, too? We'll find the beasts,
+      they're close by. I can feel it."
     </p>
     <p>
-      Her fathers sweaty face appeared over the animals wither. He had jet black
-      hair and a graying beard, but had never lost the muscle from his youth.
-      Spending most of his time guiding hunters through the treacherous Tian Ma
-      kept them both lean as dogs. He glanced over her shoulder to double-check
-      that their clientelle were well out of earshot.
+      Aubry turned her attention back to the cliffs. She was only fifteen, but
+      she had been accompanying her father through these woods since she was
+      much younger. This was not the first time she’d helped guide a hunting
+      party. Her keen eyes were able to easily pick out even the best
+      camoflauged goats from the upper ranges of the Tian Ma, but it was the
+      farthest they’d ever ranged into the forest before.
     </p>
     {/* The image component thingy */}
     <div
@@ -115,284 +151,125 @@ const SecondPage = () => (
         marginBottom: `20px`,
       }}
     >
-      Image of Astly Fauchard, over the withers of a yak. Background yaks.
+      Image of Aubry staring at a quickly darkening sky. Snow falling.
+      Background yaks.
     </div>
     <p>
-      “The Gokyo Ri,” he said. "Although, speakin truthfully, I dunno if they’ll
-      even make it as far as the pass,” he frowned, but there was a touch of
-      amusement in his voice. “I mean. Have you seen them?”
+      The Black Forest was so vast that it encompassed entire mountain ranges,
+      with thousands of undiscovered valleys and canyons tracing their way
+      beneath the canopy. In most places it was considered impassable without a
+      guide, the combination of sheer terrain, hostile climate, and the
+      seemingly endless varieties of wildlife keeping her father occupied well
+      through his retirement from the army.
     </p>
     <p>
-      Aubry turned over her shoulder to see snowballs flying through the air so
-      thick, it looked like fog. Guffaws of laughter cut through the air between
-      the breaks in conversation. She watched their boots sink to the knee, and
-      the ensuing dance as they shook snow out of their shoes, and wondered how
-      long it would take for the first signs of frostbite.
+      "Well, if they went up, they're unfollowable," she said. "Nothing can
+      follow Markhorein in the mountains. We'll have to wait until morning."
+    </p>
+    <p>"Might not have gone up," her father replied.</p>
+    <p>
+      Aubre's mouth drew into a thin line, but she didn’t argue. The herds of
+      Markhorein that roamed the Tian Ma attracted similar clientelle every
+      spring, their coiled antlers and lion-like manes and tails appearing only
+      in glimpses as the scaled slot canyons to graze in the grassy meadows that
+      bloomed in the springtime, fed by melting snow. The upperclass traveled as
+      far as the Royal City for the opportunity to bring down one of the beasts
+      themselves, and they'd pay almost any price.
     </p>
     <p>
-      “How do they even know about the canyon?” said Aubry, the surprise in her
-      voice obvious. The Gokyo Ri was a near-verticle slot canyon that was
-      periolous anytime of year, but during the snowmelt it had a reputation for
-      being downright deadly. A frigid gust of wind blew past, breaking the
-      silence with a low howl. “Why not go to Shiva Altes? If they're trying to
-      take a wolf, or a bear.”
+      It was for this reason that their own survival through Ledak's blistering
+      winters depended on guiding hunters like these on the most well-traveled
+      game paths of the forest. If the Markhorein had gone into the valley below
+      from here, there was a good chance they'd come back up the same way. She'd
+      seen the animals before, and could easily guess their habits.
     </p>
     <p>
-      Her father shook his head. “They’re following the herds, got it in their
-      head that that’s where they want to go,” he shrugged. “And their money’s
-      good, so who are we to argue?”
+      Markhorein had no natural predators that could hunt them from above, which
+      was why they'd circled around the mountain in the first place. Now that
+      they were angled above the creatures path, it was just a matter of waiting
+      until they returned.
     </p>
     <p>
-      Aubry’s mouth drew into a thin line, but she didn’t say anything. The
-      herds of Markhorein that roamed the Tian Ma attracted similar clientelle
-      every spring, their coiled antlers and lion-like manes and tails appearing
-      only in glimpses through the dense woodlands as they descended the rocky
-      cliffs for the grassy meadows that bloomed in the springtime, fed by
-      melting snow. The upperclass traveled as far as the Royal City for the
-      opportunity to bring down one of the beasts themselves, spurred on by
-      local legends.
+      The youngest of the trio approached them, with both arms wrapped around
+      himself in the cold. Despite being scrawny and pink-cheeked, he had a
+      heavy-looking rifle strapped around one shoulder, finer than any weapon
+      Aubre had ever seen before. Wisps of red hair were visible under the hood
+      of his cloak, which was trimmed in blond wolf fur and decorated in silver
+      buttons, lending him an air of regality that his face alone did not
+      posess.
     </p>
     <p>
-      Three more yaks were leaden down with supplies and pack harnesses, their
-      long fur blowing like a skirt in the wind. They bobbed their heads up and
-      down at the same moment Aubry heard crunches of snow and turned to see the
-      lordlings walking toward them. Her father had met the boys in town, she
-      knew that much. He’d told her the night before to expect them, but that
-      was all she knew.
+      <i>"Shahzade,"</i> said both of the men accompanying him, giving a small
+      bow.
     </p>
-    {/* The image component thingy */}
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Lordly snowball fight, in the distance (white/white)
-    </div>
-    <p>“Where’d they even come from?”</p>
+    <p>"What's going on?" he sniffed, pulling his scarf up over his nose.</p>
     <p>
-      “Probably the Royal City, same as the rest,” said her father, nodding at
-      the dark blue tint of their cloaks, even in the sunlight. "That’s the
-      right colors, anyway. Magicerene blue, I'd recognize it anywhere. I still
-      remember the factories that made the stuff in town, stinks to high
-      heaven." Wiping sweat from his brow with a dirty rag, her father waved at
-      them convivally, plastering a smile on his face.
+      He'd been traveling in the back of a small wooden <i>hurcha</i> and barely
+      even had snow on his boots. Yolked to one of the yaks, the cart provided a
+      much easier ride than the hike the rest of them had endured, but it was
+      small and leaden down with supplies, and could barely fit another bag of
+      oats. "Why have we stopped?"
     </p>
-    <p>“Mornin, boys. Fine day for a little walk in the woods, isn’t it?”</p>
+    <p>"We've lost the trail," said Aubre.</p>
     <p>
-      “Perhaps,” said a serious-looking man with black hair and a long, flowing
-      cloak. He wore a sash over one shoulder and Aubry could see a fine blade
-      protruding from a scabbard at his waist. Her eyes lingered on a circle of
-      glittering blue stones inlaid into the handle.
+      "Hm", said the boy, hands resting on his hips as he stared around the
+      incoming waves of snow. "I'm for anything that involves a fire."
     </p>
     <p>
-      Another man walked beside him, although he looked much younger, he had a
-      heavy-looking rifle strapped to one shoulder. Wisps of red hair were
-      visible under the hood of his cloak, which was even finer than his
-      friends. Trimmed in blond wolf fur and decorated in silver buttons, it
-      gave him an air of regality that his face alone did not posess. silver
-    </p>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Elsa + Charles standing, talking to Astly (white to white, no fade)
-    </div>
-    <p>“How far to the pass?” said the older of the two.</p>
-    <p>
-      “We’ll make it tonight and lay camp, the herds wont descend til morning.”
-    </p>
-    <p>“How sure are you that we’ll even find them? The woods are endless.”</p>
-    <p>
-      Her father smiled disarmingly. “Been doing this since before you were
-      born, lad. You leave that part to me.”
+      "Doesn't seem like we have much choice," said Aubre. Making any progress
+      on the trail, up or down, could easily prove lethal in this weather.
     </p>
     <p>
-      He stared at her father suspiciously, searching his face for any hint of
-      mistruth, before his friend clapped him on the shoulder and smiled in an
-      effort to break the tension.
-    </p>
-    <p>“What’s the matter, Elsa? Sounds alright to me.”</p>
-    <p>
-      The man, who was apparently called Elsa, turned to his friend and said, “I
-      don’t like these woods, <i>shahzade</i>. I’ve heard the stories. Trust me,
-      one night in the Black Forest is a night too many.”
-    </p>
-    <p>“But where’s your sense of adventure?”</p>
-    <p>
-      “Must’ve left it back at the palace, along with my sandals and my good
-      mood,” he sniffed, turning back to her father with an outstretched glove.
-      “Alright, then. One night.”
+      "Kids are right," said her father. "Wont be able to see a thing when it
+      starts coming down, anyway. Best wait til morning."
     </p>
     <p>
-      "Astly Fauchard," beamed her father, before turning back to finish tacking
-      up. "And don't believe all the stories, it's just trees, same as any other
-      wood."
-    </p>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Elsa + Astly shake hands, closeup on hands 😩
-    </div>
-    <p style={{ marginTop: `0px` }}>
-      They clasped hands, her fathers calloused fingers enveloping Elsa's soft
-      black lambskin gloves.
+      Although there was still hours until nightfall, the men made camp in the
+      lee of the canyon while Aubre tended to the yaks. She'd dug a hole in the
+      snow and cut open a bag of mixed barley and oats, which the woolly animals
+      quickly set to nuzzling out of the earth.
     </p>
     <p>
-      Before Aubry knew it, they were wheeling out of the driveway, snow
-      spraying the streets on either side of the yaks. It was still early in the
-      morning, and they passed no one on their way out of town. The only signs
-      of life were the tendrils of smoke curling from the tiny hamlet of Ledak,
-      and the ocassional pastured steer.
-    </p>
-    <div className={style.YaksOnHill}>
-      <img src="https://incurable.s3.amazonaws.com/YaksBackground.png" />
-      <img
-        class={style.YaksLightBeam}
-        src="https://incurable.s3.amazonaws.com/YaksLightBeams.png"
-      />
-      <img
-        class={style.Yaks}
-        src="https://incurable.s3.amazonaws.com/Yaks.png"
-      />
-      <img
-        class={style.YaksPageTear}
-        src="https://incurable.s3.amazonaws.com/YaksPageTear.png"
-      />
-      <img
-        class={style.YaksSnow}
-        src="https://incurable.s3.amazonaws.com/YaksSnow.png"
-      />
-    </div>
-    <p style={{ marginTop: `0px` }}>
-      The ancient, dark pines of the Black Forest loomed over them, seemingly as
-      tall as mountains. Heavy mists pooled around the trunks already piled with
-      snow, obscuring everything. Slipping through the treeline felt like
-      passing through a curtain to another world entirely, on one side the quiet
-      village of Ledak, and on the other, all of nature’s stage.
+      When she'd removed the yaks harnesses and stowed the hurcha behind a hill
+      of rocks, she rejoined the others just as a small fire was born, and knelt
+      to warm her hands. Pulling off her gloves, Aubry bent her fingers in the
+      firelight, the cold making her joints as stiff as someone four times her
+      age.
     </p>
     <p>
-      Although she was small and scrawny, Aubry was fast and strong and easily
-      kept up with Marten in the woods. Having spent most of her time back home
-      racing up and down the uneven stone streets of Carvalo with her friends,
-      the knobbly undergrowth of the Black Forest was a welcome challenge. It’d
-      taken her a little while to get used to wearing boots with metal spikes in
-      them, but now she could scale the snowy ridges with the ease of a goat.
+      They had little more than rolled wolf and buffalo hides to shield them
+      from the elements, but the fire grew as her father shaved down a few large
+      logs with an axe, exposing the dry inner wood within. The flames cast
+      everyone under a spell, and soon they were all staring wordlessly into the
+      fire.
     </p>
     <p>
-      It was a long walk on a familiar trail, the snow already packed to ice.
-      Her father lead the lordlings deeper into the woods, slipping and sinking
-      into the snow, while Aubry brought up the rear, nothing but the sound of
-      their own footsteps setting a steady pace through the woods. It was eerily
-      quiet in the Black Forest, winter blotting out the familiar sounds of
-      animals or insects. The near-permanent fog dampened everything from the
-      suns rays, to the sound of their own breathing, and the trees grew so
-      close together that even the echo of their voices were absorbed.
+      It was the younger boy who uncorked a slender bottle of cloudy pink
+      <i>kalakatta,</i> breaking the reverie. Aubre's father looked over at him,
+      restraining a laugh.
     </p>
-    <p>“How’d you even find this place?”</p>
+    <p>"Bit young to have such a habit, aren't you son?"</p>
     <p>
-      “Everything needs water to survive, the animals, us,” her father was
-      picking out a path where chunks of tree trunks had been cut away by a
-      machete, a crude system for marking the trail. “There’s snow everywhere,
-      but they’re all attracted to flowing water. In the summer it’s a little
-      more perilous, as the banks flood, and during the winter half the river
-      freeezs over, so what you’re really waiting for is the melt.”
+      The boy smiled. He had fine, girlish features and a chin that tapered into
+      an impish point.
     </p>
     <p>
-      After a while, Aubry could hear the crush of falling water, and she knew
-      that they were near the canyon. The trees thinned and they found
-      themselves overlooking the first waterfall of the canyon. Glimmering black
-      stone, dusted with snow and icicles plunged hundreds of feet into
-      impenetrable fog. It was another hour of hiking down to the base of the
-      falls, and another hour after that before they reached the wider, calmer
-      banks where they could set up camp and wait.
-    </p>
-    <p style={{ marginTop: `0px`, color: `white` }}>
-      The ancient, dark pines of the Black Forest loomed over them, seemingly as
-      tall as mountains. Heavy mists pooled around the trunks already piled with
-      snow, obscuring everything. Slipping through the treeline felt like
-      passing through a curtain to another world entirely, on one side the quiet
-      village of Ledak, and on the other, all of nature’s stage.
+      "Picked it up in town," he said, although with the tilt of his smile, it
+      was hard to know if he could be believed.
     </p>
     <p>
-      Although she was small and scrawny, Aubry was fast and strong and easily
-      kept up with Marten in the woods. Having spent most of her time back home
-      racing up and down the uneven stone streets of Carvalo with her friends,
-      the knobbly undergrowth of the Black Forest was a welcome challenge. It’d
-      taken her a little while to get used to wearing boots with metal spikes in
-      them, but now she could scale the snowy ridges with the ease of a goat.
+      Aubre found them all a little strange. She'd never viewed the trips into
+      the Black Forest as anything more than a job, the many faces she'd met
+      easily forgotten and replaced by the next. This far away from the southern
+      cities, she couldn't afford to be interested in anything other than
+      surviving each winter. People came and went, that would always be true.
     </p>
     <p>
-      It was a long walk on a familiar trail, the snow already packed to ice.
-      Her father lead the lordlings deeper into the woods, slipping and sinking
-      into the snow, while Aubry brought up the rear, nothing but the sound of
-      their own footsteps setting a steady pace through the woods. It was eerily
-      quiet in the Black Forest, winter blotting out the familiar sounds of
-      animals or insects. The near-permanent fog dampened everything from the
-      suns rays, to the sound of their own breathing, and the trees grew so
-      close together that even the echo of their voices were absorbed.
-    </p>
-    <p>“How’d you even find this place?”</p>
-    <p>
-      “Everything needs water to survive, the animals, us,” her father was
-      picking out a path where chunks of tree trunks had been cut away by a
-      machete, a crude system for marking the trail. “There’s snow everywhere,
-      but they’re all attracted to flowing water. In the summer it’s a little
-      more perilous, as the banks flood, and during the winter half the river
-      freeezs over, so what you’re really waiting for is the melt.”
-    </p>
-    <p>
-      After a while, Aubry could hear the crush of falling water, and she knew
-      that they were near the canyon. The trees thinned and they found
-      themselves overlooking the first waterfall of the canyon. Glimmering black
-      stone, dusted with snow and icicles plunged hundreds of feet into
-      impenetrable fog. It was another hour of hiking down to the base of the
-      falls, and another hour after that before they reached the wider, calmer
-      banks where they could set up camp and wait.
-    </p>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `0px`,
-      }}
-    ></div>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Drawing of everybody standing on the Gokyo Ri, from above
-    </div>
-    <p>"Do you see that?" said Elsa, pointing across the gorge.</p>
-    <p>
-      Suddenly, everyone was alert. Aubry scanned the sheer cliffs for any signs
-      of life, before she felt a hand on her shoulder. Her father was at her
-      side, kneeling in the snow and urging everyone else to do the same.
-    </p>
-    <p>"Get down!" he whispered.</p>
-    <p>
-      Aubry knew by now that the herds of Markhorein - large mountain goats
-      indigenous to the Tian Ma - rarely strayed this close to the edge of the
-      Black Forest. The Gokyo Ri was too exposed and open to attract the herds
-      when there were plenty of quiet, tucked away crevasses deep in the
-      mountains to hide in, and few other animals could brave the treacherous
-      ledges of the slot canyon besides them.
+      The following morning when the snow cleared, they woke to a clear view of
+      the largest herd of Markhorein Aubre had ever seen, grazing on the
+      opposite cliffs. Aubre had barely risen from under a roll of wolf fur when
+      she saw them, two stags with coiled antlers grazing in the warmth of the
+      sun, a dozen females and calves dotting the cliffs nearby.
     </p>
     <div
       style={{
@@ -402,76 +279,10 @@ const SecondPage = () => (
         marginBottom: `20px`,
       }}
     >
-      Glimpse of Markhorein herd
+      Drawing of <b>NASIR</b> and <b>SABIN</b> with markhorein antlers over
+      their shoulders
     </div>
-    <p>
-      (The whole making camp & drinking scene. Aubry has her first ever drink
-      then sees cat-people in the woods. She thinks shes hallucinating, and goes
-      back to camp, telling no one.)
-    </p>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Aubrys first drink, firelight in background
-    </div>
-    <p>
-      They followed the river downstream when then they heard a low noise, like
-      the rattling of an engine. Marten stopped in his tracks before throwing
-      out an arm so quickly that Aubry was knocked backwards. The old man
-      whirled on her, one finger pressed urgently against his lip. He mouthed
-      shush, but no words came out.
-    </p>
-    <p>
-      The noise came again, accompanied by a competing hiss. Crouched down in
-      the snow, the cold penetrated everything, her fingers and toes freezing
-      even through thick leather. It sounded like a pair of fighting dogs.
-      Another loud growl sent several birds soaring out of the canyon.
-    </p>
-    <p>
-      Aubry’s skin went a degree paler when she got a good look around the
-      boulders. It wasn’t dogs making all the racket — it was two large beasts
-      circling eachother in the snow. From this distance, they almost looked
-      human, except for the pattern of gray spots that trailed down their spine
-      and their long, pearl-white tails.
-    </p>
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Drawing of <b>NASIR</b> and <b>SABIN</b> fighting over buns (possibly baby
-      markhorein calf?)
-    </div>
-    <p>
-      One of them, the larger of the two, had eight plush mountain hares thrown
-      over his shoulder. Aubry could see their noses, streaked with bright red
-      blood.
-    </p>
-    <p>
-      She’d never seen such creatures outside of books, but the sight of them
-      made a chill spread through Aubry that had nothing to do with the cold.
-      Slowly, she backtracked through the woods, reaching instinctively for her
-      knife. Her vision was blurry, but the pleasant warm sensation brought on
-      by the <i>kalakatta</i> had evaporated.
-    </p>
-    <p>
-      However, the beasts had long gone, and the idea that they could be out
-      there in the forest frightened her much more than seeing them in person.
-      They could be anywhere. Blending into the shadows, prowling flat against
-      the snow. As quickly as they’d appeared, they were gone, melting into
-      mists like the legends after which they were named.
-    </p>
-    <p>
-      Ibricha - <i>ghosts.</i>
-    </p>
+
     <Link to="/">Go back to the homepage</Link>
     <br />
     <Link to="/2-shahzade">Go forward to Chapter 2</Link>
