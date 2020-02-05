@@ -21,14 +21,28 @@ const SecondPage = () => (
     >
       <IntroImage />
     </div>
-    <h1>1. The Black Forest</h1>
-    <h2>Aubre</h2>
+    <h1>1. The Gokyo Ri</h1>
+    <h2>Lanoire</h2>
     <p>
-      “I can’t see nothin, papa,” said Aubre as she stared up the sheer gray
-      canyon walls of the Gokyo Ri. “It's too steep and-” a thin beam of
-      sunlight managed to break through the dark clouds encircling the peaks of
-      the Tian Ma. “We’re losing the light.”
+      A group of snow white leonen jogged through the village clutching
+      elaborate spears in their handpaws, while higher up along the ridge a
+      small gray figure in a hooded cloak stopped to watch. Her fur was still
+      dark and dappled with a juveniles spots, but she imagined herself among
+      the tribe’s hunters all the same, appearing and disappearing through the
+      swirling mists of the Black Forest.
     </p>
+    {/* The image component thingy */}
+    <div
+      style={{
+        background: `lightGray`,
+        marginLeft: `-20px`,
+        marginRight: `-20px`,
+        marginBottom: `20px`,
+      }}
+    >
+      Lanoire
+    </div>
+    <p>“Lanoire!”</p>
     <p>
       Behind her, a string of woolly yaks shifted from hoof to hoof while she
       deliberated. They’d spent three nights in the Black Forest without as much
@@ -57,18 +71,6 @@ const SecondPage = () => (
       began to tremble as another storm passed overhead, bigger than the last,
       and moving across the sky as if it were something alive.
     </p>
-    {/* The image component thingy */}
-    <div
-      style={{
-        background: `lightGray`,
-        marginLeft: `-20px`,
-        marginRight: `-20px`,
-        marginBottom: `20px`,
-      }}
-    >
-      Tiny people standing against a storm coming into the Gokyo Ri from the
-      highest peak in the Tian Ma (Nhenya)
-    </div>
     <p>
       Her father stooped in the snow to hunt for clues, turning up a few clumps
       of shed hair while Aubre scanned the cliffs. This high in the mountains,
