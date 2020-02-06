@@ -10,3 +10,12 @@ body {
   transform-style: preserve-3d;
   transform: perspective(800px);
 }
+
+.containerPage {
+  background-color: gray;
+  min-height: 100vh;
+}
+
+.snappySliderWrapper {
+  margin-top: 20px;
+}

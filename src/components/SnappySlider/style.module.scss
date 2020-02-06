@@ -1,0 +1,21 @@
+@import "../vars.scss";
+
+.snappySlider {
+  display: flex;
+  flex-flow: row nowrap;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  margin-left: -20px;
+  margin-right: -20px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  -webkit-scroll-snap-points-x: repeat(50%);
+  @include respond-to($phone) {
+    margin-left: -40px;
+    margin-right: -40px;
+    -webkit-scroll-snap-points-x: repeat(33.3%);
+  }
+  @include respond-to($tablet-portrait) {
+    -webkit-scroll-snap-points-x: repeat(25%);
+  }
+}

@@ -1,0 +1,110 @@
+@import "/../../vars.scss";
+
+// make first child slightly smaller,
+// to show incoming cards
+.featuredSlide:first-child {
+  min-width: 90%;
+  max-width: 90%;
+  margin-left: 20px;
+  // all phone sizes need to be the same
+  // width to maintain aspect ratio
+  @include respond-to($phone) {
+    margin-left: 40px;
+    min-width: 50%;
+    max-width: 50%;
+  }
+}
+.featuredSlide + .featuredSlide {
+  margin-left: 10px;
+  @include respond-to($phone) {
+    margin-left: 30px;
+  }
+}
+// last child larger to push it fully
+// centered and push other children out of view
+.featuredSlide:last-child {
+  min-width: 95%;
+  max-width: 95%;
+  margin-right: 20px;
+  // all phone sizes need to be the same
+  // width to maintain aspect ratio
+  @include respond-to($phone) {
+    min-width: 55%;
+    max-width: 55%;
+  }
+}
+
+// keep main slide smaller so that it is centered
+// with other cards entering viewport left & right
+.featuredSlide {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid lighten(gray, 65%);
+  margin-bottom: 20px;
+  max-height: 185px;
+  min-height: 185px;
+  min-width: 88%;
+  max-width: 88%;
+  overflow: hidden;
+  position: relative;
+  scroll-snap-align: center;
+  &:hover {
+    border: 1px solid lighten(gray, 50%);
+  }
+  // all phone sizes need to be the same
+  // width to maintain aspect ratio
+  @include respond-to($phone) {
+    scroll-snap-align: start;
+    min-width: 50%;
+    max-width: 50%;
+  }
+  @include respond-to($tablet-portrait) {
+    max-height: 250px;
+    min-height: 250px;
+  }
+  @include respond-to($desktop) {
+    max-height: 320px;
+    min-height: 320px;
+  }
+}
+
+.text {
+  color: darken(gray, 30%);
+  position: absolute;
+  bottom: 0px;
+  padding: 20px;
+  width: 100%;
+  @include respond-to($tablet-portrait) {
+    padding: 40px;
+  }
+}
+.title {
+  // @include Typography-h3;
+  color: gray;
+  font-weight: 600;
+  @include respond-to($phone) {
+    line-height: 30px;
+    font-size: 22px;
+  }
+}
+.subline {
+  // @include Typography-h3;
+  color: gray;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  @include respond-to($phone) {
+    line-height: 30px;
+    font-size: 24px;
+  }
+}
+.image {
+  height: 100%;
+  width: auto;
+  img {
+    border-radius: 8px;
+  }
+}
+a {
+  display: block;
+}
