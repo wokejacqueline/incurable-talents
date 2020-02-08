@@ -82,6 +82,9 @@
 }
 .container {
   color: darken(gray, 30%);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 20px;
   position: absolute;
   padding: 20px;
   top: 0px;

@@ -35,7 +35,7 @@ const IndexPage = () => (
           <FeaturedSlide
             disabled
             button="Coming Soon"
-            description="The commander of the Honour Guard travels to Natans to see for himself."
+            description="The commander of the Honour Guard travels to Natans to see the beasts for himself."
             link="/3-strange-fruit/"
             pov="Elsavere"
             size="200 kb / 19 min read"
