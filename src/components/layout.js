@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: 680,
-          minHeight: `calc(100vh - 30px)`,
+          minHeight: `100vh`,
           padding: `0px 20px 0px`,
           paddingTop: 0,
           position: `relative`,
