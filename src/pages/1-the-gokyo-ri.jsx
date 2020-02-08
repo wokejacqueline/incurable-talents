@@ -117,7 +117,9 @@ const SecondPage = () => (
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      Moms magic, eyes closeup, blue reflection
+      <span>
+        <strong>SCENE:</strong>Moms magic, eyes closeup, blue reflection
+      </span>
     </div>
     <p>
       She’d seen her mother do this many times, but couldn’t help the shiver
@@ -233,7 +235,11 @@ const SecondPage = () => (
       lips, the chalky minerals in the tea staining her teeth and gums blue.
     </p>
     {/* The image component thingy */}
-    <div className={style.comicPanel}>Closeup snarling of tea, teeth blue</div>
+    <div className={style.comicPanel}>
+      <span>
+        <strong>SCENE:</strong>Closeup snarling of tea, teeth blue
+      </span>
+    </div>
     <p>
       Her family had maintained the Temple of Bast for generations, and every
       morning since Lanoire was strong enough to climb the six thousand steps to
@@ -328,7 +334,11 @@ const SecondPage = () => (
     </p>
     <p>What else was there to do but read?</p>
     {/* The image component thingy */}
-    <div className={style.comicPanel}>Lanoire reading</div>
+    <div className={style.comicPanel}>
+      <span>
+        <strong>SCENE:</strong>Lanoire reading
+      </span>
+    </div>
 
     <p>
       Studying the Panthera was almost as grueling as the walk to the temple.
@@ -374,15 +384,18 @@ const SecondPage = () => (
       and echo.
     </p>
     <div className={style.comicPanel}>
-      Drawing of <b>NASIR</b> and <b>SABIN</b> lookin around the temple columns
+      <span>
+        <strong>SCENE:</strong>
+        <b>NASIR</b> and <b>SABIN</b> lookin around the temple columns
+      </span>
     </div>
     <p>
       “What are you two doing here?” she growled, unable to hide her surprise.
-      Puffs of ice evaporated on her breath.{" "}
+      Puffs of ice evaporated on her breath.
     </p>
     <p>
       Sabin, who was younger than Nasir, but still older than Lanoire by several
-      minutes was the first to speak.{" "}
+      minutes was the first to speak.
     </p>
     <p>
       “It's the herds,” he blurted, his voice echoing through the temple like a
@@ -494,7 +507,10 @@ const SecondPage = () => (
       keep her footing, claws scratching for purchase.
     </p>
     <div className={style.comicPanel}>
-      Lanoire descending mountain, struggling not to fall
+      <span>
+        <strong>SCENE:</strong>
+        Lanoire descends the steep cliffs of the Gokyo Ri
+      </span>
     </div>
     <p>
       Suddenly, Nasir stopped, crouching low on a ledge only a little bigger
@@ -544,9 +560,6 @@ const SecondPage = () => (
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-6.jpg" />
     </div>
-    <Link to="/">Go back to the homepage</Link>
-    <br />
-    <Link to="/2-shahzade">Go forward to Chapter 2</Link>
   </Layout>
 )
 

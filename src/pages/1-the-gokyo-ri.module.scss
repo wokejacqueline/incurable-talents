@@ -1,12 +1,14 @@
 @import "src/components/vars.scss";
 
 .comicPanel {
-  background-color: whitesmoke;
+  color: gray;
   display: block;
   height: 100%;
   position: relative;
   margin-left: -20px;
   margin-right: -20px;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
   @include respond-to($phone) {
     margin-left: -80px;
     margin-right: -80px;
@@ -25,5 +27,11 @@
     margin: 0px;
     padding: 0px;
     width: 100%;
+  }
+  span {
+    padding-left: 10px;
+  }
+  strong {
+    padding-right: 5px;
   }
 }

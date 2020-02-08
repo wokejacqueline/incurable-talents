@@ -73,11 +73,14 @@
   justify-content: center;
   font-size: 14px;
   text-decoration: underline;
-  margin-top: 8px;
+  margin-top: 12px;
   padding: 8px 16px;
   width: 100%;
   &:hover {
     border: 1px solid gray;
+  }
+  @include respond-to($desktop) {
+    margin-top: 24px;
   }
 }
 .container {
