@@ -1,6 +1,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
+import style from "./layout.module.scss"
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
@@ -26,7 +27,11 @@ const IntroImage = () => {
     }
   `)
 
-  return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
+  return (
+    <div className={style.introImageWrapper}>
+      <Img fluid={data.placeholderImage.childImageSharp.fluid} />
+    </div>
+  )
 }
 
 export default IntroImage
