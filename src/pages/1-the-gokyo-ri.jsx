@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import IntroImage from "../components/introimage"
 import Image from "../components/image"
 import SEO from "../components/seo"
-import style from "./1-the-gokyo-ri.module.css"
+import style from "./1-the-gokyo-ri.module.scss"
 
 const SecondPage = () => (
   <Layout>
@@ -29,7 +29,7 @@ const SecondPage = () => (
       Panthera of old.
     </p>
     {/* The image component thingy */}
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.jpg" />
     </div>
     <p>“Lanoire!”</p>
@@ -96,7 +96,7 @@ const SecondPage = () => (
     </p>
 
     {/* The image component thingy */}
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-2.jpg" />
     </div>
 
@@ -116,7 +116,9 @@ const SecondPage = () => (
     </p>
 
     {/* The image component thingy */}
-    <div>Moms magic, eyes closeup, blue reflection</div>
+    <div className={style.comicPanel}>
+      Moms magic, eyes closeup, blue reflection
+    </div>
     <p>
       She’d seen her mother do this many times, but couldn’t help the shiver
       that ran through her each time cold air rushed through the glacier. When
@@ -195,7 +197,7 @@ const SecondPage = () => (
     </p>
 
     {/* The image component thingy */}
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-3.jpg" />
     </div>
     <p>“Alena,” he breathed.</p>
@@ -231,7 +233,7 @@ const SecondPage = () => (
       lips, the chalky minerals in the tea staining her teeth and gums blue.
     </p>
     {/* The image component thingy */}
-    <div>Closeup snarling of tea, teeth blue</div>
+    <div className={style.comicPanel}>Closeup snarling of tea, teeth blue</div>
     <p>
       Her family had maintained the Temple of Bast for generations, and every
       morning since Lanoire was strong enough to climb the six thousand steps to
@@ -285,7 +287,7 @@ const SecondPage = () => (
       moved to block her line of sight, and their eyes locked.
     </p>
     {/* The image component thingy */}
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-4.jpg" />
     </div>
     <p>
@@ -326,7 +328,7 @@ const SecondPage = () => (
     </p>
     <p>What else was there to do but read?</p>
     {/* The image component thingy */}
-    <div>Lanoire reading</div>
+    <div className={style.comicPanel}>Lanoire reading</div>
 
     <p>
       Studying the Panthera was almost as grueling as the walk to the temple.
@@ -371,7 +373,7 @@ const SecondPage = () => (
       fistfuls of beads from their robes, so the glass would not clack together
       and echo.
     </p>
-    <div>
+    <div className={style.comicPanel}>
       Drawing of <b>NASIR</b> and <b>SABIN</b> lookin around the temple columns
     </div>
     <p>
@@ -428,7 +430,7 @@ const SecondPage = () => (
       daylight at the temples entrance, the pages of the discarded Panthera
       still blowing open.
     </p>
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-5.jpg" />
     </div>
     <p>
@@ -491,7 +493,9 @@ const SecondPage = () => (
       they came to a dead end in the trail, Lanoire had to crawl on all fours to
       keep her footing, claws scratching for purchase.
     </p>
-    <div>Lanoire descending mountain, struggling not to fall</div>
+    <div className={style.comicPanel}>
+      Lanoire descending mountain, struggling not to fall
+    </div>
     <p>
       Suddenly, Nasir stopped, crouching low on a ledge only a little bigger
       than he was. Lanoire and Sabin followed suit as he pointed to a shady
@@ -537,7 +541,7 @@ const SecondPage = () => (
       rock and she went crashing into the ravine, her brothers startled faces
       the last thing she remembered as everything disappeared behind her.
     </p>
-    <div>
+    <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-6.jpg" />
     </div>
     <Link to="/">Go back to the homepage</Link>

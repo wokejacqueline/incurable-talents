@@ -6,7 +6,8 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `transparent`,
-      position: `fixed`,
+      position: `sticky`,
+      top: `0px`,
       textAlign: `left`,
       zIndex: `9`,
     }}
@@ -15,7 +16,7 @@ const Header = ({ siteTitle }) => (
       style={{
         margin: `0 auto`,
         maxWidth: 960,
-        padding: `0.8rem 1.0875rem`,
+        padding: `15px 20px`,
       }}
     >
       <h2 style={{ margin: 0 }}>

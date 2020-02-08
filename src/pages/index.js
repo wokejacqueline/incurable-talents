@@ -1,12 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import CoverArt from "../components/CoverArt"
 import SnappySlider from "../components/SnappySlider"
 import FeaturedSlide from "../components/SnappySlider/FeaturedSlide"
-import style from "./index-styles.module.css"
-import Image from "../components/image"
+import style from "./index-styles.module.scss"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
@@ -19,30 +16,33 @@ const IndexPage = () => (
       <div className={style.snappySliderWrapper}>
         <SnappySlider>
           <FeaturedSlide
+            button="Read Chapter"
+            description="Tired of a life of duty and responsibility, Lanoire goes hunting in the Gokyo Ri."
             link="/1-the-gokyo-ri/"
+            pov="Lanoire"
+            size="42 kb / 12 min read"
             title="1. The Gokyo Ri"
-            subline="Lanoire"
           />
           <FeaturedSlide
-            link="/2-the-black-forest/"
-            title="2. The Black Forest"
-            subline="Aubre"
+            disabled
+            button="Coming Soon"
+            description="The party returns to Ledak after a successful hunt. Aubre sees the sea."
+            link="/2-shahzade/"
+            pov="Aubre"
+            size="195 kb / 21 min read"
+            title="2. Shahzade"
           />
           <FeaturedSlide
-            link="/3-shahzade/"
-            title="3. Shahzade"
-            subline="Elsavere"
+            disabled
+            button="Coming Soon"
+            description="The commander of the Honour Guard travels to Natans to see for himself."
+            link="/3-strange-fruit/"
+            pov="Elsavere"
+            size="200 kb / 19 min read"
+            title="3. Strange Fruit"
           />
-          <FeaturedSlide></FeaturedSlide>
         </SnappySlider>
       </div>
-      <p>
-        Incurable Talents is an original graphic novel written & illustrated by
-        <a href="https://instagram.com/wokejacqueline">@wokejacqueline</a>
-      </p>
-      <p>It is free to read online...enjoy.</p>
-
-      <div>Part Two: Instinct</div>
     </Layout>
   </div>
 )

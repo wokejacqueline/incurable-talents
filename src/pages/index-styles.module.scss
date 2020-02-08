@@ -1,21 +1,24 @@
 body {
-  /* background: linear-gradient(#695f64, #695f64, #2d2828); */
   font-family: "San Francisco", Helvetica, sans-serif;
 }
 .coverArtContainer {
   align-content: center;
   display: flex;
   justify-content: center;
-  padding-top: 20px;
   transform-style: preserve-3d;
   transform: perspective(800px);
 }
 
 .containerPage {
-  background-color: gray;
-  min-height: 100vh;
+  background-color: #695f64;
+  background-image: linear-gradient(#695f64, #000000);
+  overflow: hidden;
 }
 
 .snappySliderWrapper {
   margin-top: 20px;
+}
+
+.Footer {
+  position: relative;
 }
