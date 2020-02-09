@@ -32,6 +32,9 @@ const SecondPage = () => (
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.jpg" />
     </div>
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
+    </div>
     <p>“Lanoire!”</p>
     <p>She'd lingered too long.</p>
     <p>
