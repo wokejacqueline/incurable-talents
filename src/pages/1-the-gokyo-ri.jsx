@@ -21,20 +21,17 @@ const SecondPage = () => (
       elaborate spears in their handpaws, while higher up along the ridge a
       small gray figure in a hooded cloak stopped to watch.
     </p>
+    {/* The image component thingy */}
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
+    </div>
     <p>
-      {" "}
       Her fur was still dark and dappled with a juveniles spots, but she
       imagined herself among the tribe’s hunters all the same, appearing and
       disappearing through the swirling mists of the Black Forest, like the
       Panthera of old.
     </p>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.jpg" />
-    </div>
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
-    </div>
+
     <p>“Lanoire!”</p>
     <p>She'd lingered too long.</p>
     <p>
@@ -100,7 +97,7 @@ const SecondPage = () => (
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-2.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-2.2.jpg" />
     </div>
 
     <p>
