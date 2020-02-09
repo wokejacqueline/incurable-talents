@@ -21,10 +21,7 @@ const SecondPage = () => (
       elaborate spears in their handpaws, while higher up along the ridge a
       small gray figure in a hooded cloak stopped to watch.
     </p>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
-    </div>
+
     <p>
       Her fur was still dark and dappled with a juveniles spots, but she
       imagined herself among the tribe’s hunters all the same, appearing and
@@ -41,11 +38,17 @@ const SecondPage = () => (
     </p>
     <p>“Are they still looking for Nasir and Sabin?” she asked.</p>
     <p>
-      Her mother merely scowled, declining to answer, but Lanoire knew that they
-      were. She risked another glance at the disappearing spear tips, searching
-      for her father. Under the shifting wolf pelts and markhorein skull-masks
-      she couldn't find his face, but she knew he was among them.
+      Her mother merely scowled, declining to answer - but Lanoire knew that
+      they were. She risked another glance at the disappearing spear tips,
+      searching for her father. Under the shifting wolf pelts and markhorein
+      skull-masks she couldn't find his face, but she knew he was among them.
     </p>
+
+    {/* The image component thingy */}
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
+    </div>
+
     <p>Her brothers were going to be in so much trouble.</p>
     <p>
       Half of the tribes warriors were looking for them, more than had ever gone
