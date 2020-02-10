@@ -9,17 +9,13 @@
   margin-right: -20px;
   font-size: 14px;
   font-family: "Courier New", Courier, monospace;
-  @include respond-to($phone) {
-    margin-left: -80px;
-    margin-right: -80px;
-  }
   @include respond-to($tablet-portrait) {
-    margin-left: -120px;
-    margin-right: -120px;
+    margin-left: -64px;
+    margin-right: -64px;
   }
   @include respond-to($desktop) {
-    margin-left: -220px;
-    margin-right: -220px;
+    margin-left: -170px;
+    margin-right: -170px;
   }
   img {
     display: inline-block;

@@ -66,11 +66,11 @@ const SecondPage = () => (
       against her long black hair as she jogged to catch up.
     </p>
     <p>
-      She’d tripped on her long silver robes more than once already and the
-      bracelets she wore around her wrists and ankles did not make things any
-      easier. The trek to the Temple of Bast threaded up a narrow trail etched
-      into the mountainside, one she’d walked many times before, but which now
-      felt impossibly distant, dressed as she was in heavy ceremonial robes.
+      She’d tripped on her robes more than once already and the bracelets she
+      wore around her wrists and ankles did not make things any easier. The trek
+      to the Temple of Bast threaded up a narrow trail etched into the
+      mountainside, one she’d walked many times before, but which now felt
+      impossibly distant, dressed as she was in heavy ceremonial robes.
     </p>
     <p>
       “Maybe if I wasn’t wearing this old blanket,” Lanoire began, but was
@@ -97,6 +97,10 @@ const SecondPage = () => (
       her that the Panthera of old were watching over them all, but Lanoire had
       never come to appreciate the distinction.
     </p>
+    <p>
+      From a young age, the statues in the temple loomed in the back of her
+      mind, the towering faces of Bast’s daughters even following her in dreams.
+    </p>
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
@@ -104,18 +108,22 @@ const SecondPage = () => (
     </div>
 
     <p>
-      From a young age, the statues in the temple loomed in the back of her
-      mind, the towering faces of Bast’s daughters even following her in dreams.
+      She was glad to be past them when at last they entered the gloom of the
+      temple itself, deep-blue walls rising around them like an ocean wave.
+      Lanoire hesitated as her mother rapped her staff on a crack in the ground
+      and blue flames sprang up from beneath it, racing around the edges of the
+      temple.
     </p>
     <p>
-      She was glad to be past them when at last they entered the gloom of the
-      temple itself, encompassed in blue like an ocean wave. Lanoire hesitated
-      as her mother rapped her staff on the ground and blue flames sprang up
-      from beneath it, racing around the edges of the temple. Producing no heat,
-      the blaze lit the temple in a shade of pale underwater blue, making
-      shadows sparkle eerily around them. Lanoire startled at the whoosh of air
-      that blew through the room, cold enough to pierce even her dense fur, and
-      heavy robes.
+      Producing no heat, the blaze bathed everything in a shade of pale
+      underwater blue. She’d seen her mother do this many times, but couldn’t
+      help the shiver that ran through her each time cold air rushed through the
+      glacier. When she was much younger she’d been incessantly curious about
+      the staff, but as she got older, she realized it merely created a spark
+      which ignited the fire-beds at the edge of the temple.
+    </p>
+    <p>
+      The mechanism only <i>seemed</i> magical.
     </p>
 
     {/* The image component thingy */}
@@ -124,16 +132,7 @@ const SecondPage = () => (
         <strong>SCENE:</strong>Moms magic, eyes closeup, blue reflection
       </span>
     </div>
-    <p>
-      She’d seen her mother do this many times, but couldn’t help the shiver
-      that ran through her each time cold air rushed through the glacier. When
-      she was much younger she’d been incessantly curious about the staff, but
-      as she’d grown older she'd come to realize it simply created a spark,
-      which ignited the fire-beds at the edge of the temple.
-    </p>
-    <p>
-      The mechanism only <i>seemed</i> magical.
-    </p>
+
     <p>
       In a rectangular pool of water at the temples heart, Lanoire could see her
       reflection, and sneered at how formal she looked. The sare she wore had
@@ -143,13 +142,12 @@ const SecondPage = () => (
     </p>
     <p>
       She'd been told she'd grow into it, but it was taking an awfully long
-      time. The Spring Ceremony had come and gone twelve times, but the
-      watercolor of black spots she'd been born with still covered her
-      stubbornly from ear to tail. Her brothers, who were only a few minutes
-      older than she was, had grown into their adult fur two years ago. With the
-      thirteenth spring of Lanoire's life right around the corner, she found
-      herself looking at her reflection at any opportunity, eager to see the
-      same change in herself.
+      time. Spring had come and gone twelve times, but the watercolor of black
+      spots she'd been born with still covered her stubbornly from ear to tail.
+      Her brothers, who were only a few minutes older than she was, had grown
+      into their adult fur two years ago. With the thirteenth spring of
+      Lanoire's life right around the corner, she'd began studying her
+      reflection at any opportunity, eager to see the same change in herself.
     </p>
     <p>“Set the tea,” came her mothers low command.</p>
     <p>“I know,” she huffed. </p>
