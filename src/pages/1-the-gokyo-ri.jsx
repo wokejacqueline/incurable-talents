@@ -36,27 +36,28 @@ const SecondPage = () => (
       her ear. “No one has been late to the temple in generations, and no
       daughter of mine will be the first. Come.”
     </p>
-    <p>“Are they still looking for Nasir and Sabin?” she asked.</p>
+    <p>"Is it the herds?” she asked.</p>
     <p>
-      Her mother merely scowled, declining to answer - but Lanoire knew that
-      they were. She risked another glance at the disappearing spear tips,
-      searching for her father. Under the shifting wolf pelts and markhorein
-      skull-masks she couldn't find his face, but she knew he was among them.
+      Her mother merely scowled, declining to answer - but Lanoire knew that it
+      must've been something important. She risked another glance at the
+      disappearing spear tips, searching for her father. Under the shifting wolf
+      pelts and markhorein skull-masks she couldn't find his face, but she knew
+      he was among them.
     </p>
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
     </div>
-
-    <p>Her brothers were going to be in so much trouble.</p>
     <p>
-      Half of the tribes warriors were looking for them, more than had ever gone
-      before. This wasn’t the first time they’d gone off on one of their
-      escapades - they had something of a knack for it - but never before had
-      they disappeared so close to the spring melt. In only a few weeks time,
-      the river Oyo would break free of the ice, and the valleys below would be
-      flooded with wildlife.
+      More than half of the tribes warriors were leaving the village, more than
+      had ever gone on a simple scouting mission to look for game. Spring was
+      still more than a month away, the river Oyo still locked deep in ice.
+      Traditionally, the herds did not descend until the water broke free of the
+      ice, and the valleys flooded with wildlife.
+    </p>
+    <p>
+      Maybe this year, things would be different. Maybe things were changing.
     </p>
     <p>
       “Lanoire, if I have to tell you again-” her mothers voice interrupted.
@@ -73,12 +74,12 @@ const SecondPage = () => (
       impossibly distant, dressed as she was in heavy ceremonial robes.
     </p>
     <p>
-      “Maybe if I wasn’t wearing this old blanket,” Lanoire began, but was
+      "Perhaps if I wasn’t wearing this old blanket,” Lanoire began, but was
       quickly cut short.
     </p>
     <p>
-      “Maybe if you’d gotten up on time, you could’ve dressed in the temple,”
-      came her mother’s low growl.
+      "If you’d gotten up on time, you could’ve dressed in the temple,” came her
+      mother’s low growl.
     </p>
     <p>
       Lanoire made a face, and they walked the rest of the way in silence, not
@@ -90,22 +91,20 @@ const SecondPage = () => (
       ice.
     </p>
     <p>
-      Huge effigies of ancient Panthera carved from the ice gazed down at her as
-      Lanoire bowed low at the temples entrance. Even when she stood, she walked
-      with her eyes lowered, eager to be past them. She'd never been able to
-      shake the old fear that she was being watched. Her mother had once told
-      her that the Panthera of old were watching over them all, but Lanoire had
-      never come to appreciate the distinction.
+      Carved with huge statues of Panthera, the ice gleamed in the morning
+      sunlight. Lanoire walked with her eyes downcast, eager to be past them.
+      She'd never been able to shake the old fear that she was being watched.
+      Her mother had once told her that the Panthera of old were watching over
+      them all, but Lanoire had never come to appreciate the distinction.
     </p>
-    <p>
-      From a young age, the statues in the temple loomed in the back of her
-      mind, the towering faces of Bast’s daughters even following her in dreams.
-    </p>
-
     {/* The image component thingy */}
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-2.2.jpg" />
     </div>
+    <p>
+      From a young age, the statues in the temple loomed in the back of her
+      mind, the towering faces of Bast’s daughters even following her in dreams.
+    </p>
 
     <p>
       She was glad to be past them when at last they entered the gloom of the
@@ -255,7 +254,7 @@ const SecondPage = () => (
       because she’d always done it, the routine turning her thighs to hard,
       steely sinew.
     </p>
-    <p>Had they found Nasir and Sabin already?</p>
+    <p>Had they found the herds?</p>
     <p>
       “Slow down, breathe,” her mother was saying. “Tell me what you saw. How
       far into the Gokyo Ri were they?”
