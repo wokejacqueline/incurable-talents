@@ -137,12 +137,6 @@ const SecondPage = () => (
       belonged to her mother when she was her age, but it was still far too big
       on her, and draped off her shoulders like a curtain.
     </p>
-
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-8.jpg" />
-    </div>
-
     <p>
       She'd been told she'd grow into it, but it was taking an awfully long
       time. Spring had come and gone twelve times, but the watercolor of black
@@ -152,6 +146,12 @@ const SecondPage = () => (
       Lanoire's life right around the corner, she'd began studying her
       reflection at any opportunity, eager to see the same change in herself.
     </p>
+
+    {/* The image component thingy */}
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-8.jpg" />
+    </div>
+
     <p>“Set the tea,” came her mothers low command.</p>
     <p>“I know,” she huffed. </p>
     <p>The routine never changed. </p>
@@ -238,12 +238,7 @@ const SecondPage = () => (
       one handpaw in the extra fabric of her sleeves pressed the cup to her
       lips, the chalky minerals in the tea staining her teeth and gums blue.
     </p>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong>Closeup snarling of tea, teeth blue
-      </span>
-    </div>
+
     <p>
       Her family had maintained the Temple of Bast for generations, and every
       morning since Lanoire was strong enough to climb the six thousand steps to
@@ -286,7 +281,9 @@ const SecondPage = () => (
       as if a sudden instinct that her daughter wasn’t studying had kicked in.
       She dropped the tome on the floor in front of Lanoire, the pages blowing
       open to a random place in the middle, where drawings of the clades of
-      Panthera gleamed in colorful ink.{" "}
+      Panthera gleamed in colorful ink.
+    </p>
+    <p>
       <i>Leonen, Jaguarn, Tigren, Caraclene.</i>
     </p>
     <p>
