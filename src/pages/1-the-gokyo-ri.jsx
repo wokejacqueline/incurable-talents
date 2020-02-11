@@ -128,18 +128,21 @@ const SecondPage = () => (
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong>Moms magic, eyes closeup, blue reflection
-      </span>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-7.jpg" />
     </div>
 
     <p>
       In a rectangular pool of water at the temples heart, Lanoire could see her
-      reflection, and sneered at how formal she looked. The sare she wore had
+      reflection, and frowned at how formal she looked. The sare she wore had
       belonged to her mother when she was her age, but it was still far too big
-      on her. The silver-colored fabric pooled around her elbows and footpaws as
-      she walked, like spiders webbing.
+      on her, and draped off her shoulders like a curtain.
     </p>
+
+    {/* The image component thingy */}
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-8.jpg" />
+    </div>
+
     <p>
       She'd been told she'd grow into it, but it was taking an awfully long
       time. Spring had come and gone twelve times, but the watercolor of black
