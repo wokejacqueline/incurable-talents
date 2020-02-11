@@ -536,6 +536,10 @@ const SecondPage = () => (
       shoulder.
     </p>
     <p>“That one.”</p>
+    {/* The image component thingy */}
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-9.jpg" />
+    </div>
     <p>
       Nasir scowled, but licked his lips all the same. It would be difficult to
       get aligned with the herd without losing their vantage point behind
