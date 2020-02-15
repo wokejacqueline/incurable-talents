@@ -272,12 +272,13 @@ const SecondPage = () => (
     </p>
     <p>
       Lanoire’s ears strained to catch the conversation outside as she reached
-      for a set of heavy stone tablets. Chiseled with generations of clawmarks,
-      her family had added to the writings of Panthera over generations. Every
-      morning since Lanoire was strong enough to climb the six thousand steps to
-      the peak, she’d followed in the pawsteps of her mother, and her mothers’
-      mother to study, memorizing Starmaps and reciting Panteran grammar until
-      she could hardly think.
+      for a set of heavy stone tablets. Chiseled with many years of clawmarks,
+      her family had added to the writings of Panthera every generation, and one
+      day, it would be Lanoire's job to do the same. Each morning since she was
+      strong enough to climb the six thousand steps to the peak of Nehenya,
+      she’d followed in the pawsteps of her mother, and her mothers’ mother to
+      study, memorizing Starmaps and reciting Panteran grammar until she could
+      hardly think.
     </p>
     <p>
       A flutter of excitement made Lanoire’s stomach turn at this sudden change
@@ -292,8 +293,8 @@ const SecondPage = () => (
       far into the Gokyo Ri were they?”
     </p>
     <p>
-      They momentarily switched to Pantaren, the language of animals, which
-      Lanoire only knew a little of. Filled with snarls and low growls, it
+      They momentarily switched to <i>Pantaren</i>, the language of Animalkind,
+      which Lanoire only knew a little of. Filled with snarls and growls, it
       sounded more like a fight than a conversation. Lanoire still couldn’t
       understand very much of it, but the mention of the Gokyo Ri made her prick
       her ears.
@@ -302,24 +303,24 @@ const SecondPage = () => (
       Not a moment later, her mother reentered the temple looking flustered.
       Lanoire tried to look like she'd been reading, but she couldn't stop
       herself from peering curiously around the columns where the warrior still
-      waited, breathing clouds of white vapor into the air. Just then, her
+      waited, breathing clouds of white vapor into the air. Noticing this, her
       mother moved to block her line of sight.
     </p>
     <p>
-      Lanoire looked up at her mother quizzically. Surely, the day wasn’t going
-      to continue as normal after such an interruption?
+      Lanoire looked up at her quizzically. Surely, the day wasn’t going to
+      continue as normal after such an interruption?
     </p>
     <p>“You'll be studying by yourself until I return,” she said seriously.</p>
+    <p>“What?”</p>
     <p>
-      “What?” Lanoire’s voice bounced back at her off the ice so loudly, the
-      water in the pool vibrated. She lowered her ears, mollified by the echo.
-      “But why?”
+      Lanoire’s voice bounced back off the ice so loudly, the water in the pool
+      vibrated. She lowered her ears, mollified by the echo. “But why?”
     </p>
     <p>
       “Shh,” hissed her mother, her eyes cutting toward the ceiling. The morning
-      light made thin yellow beams in the air, where a single droplet of snow
-      melt could be seen spiraling off an icicle and into the pool below,
-      causing rings to radiate across the surface of the water.
+      light made thin yellow beams in the air, where a single droplet of
+      snowmelt could be seen spiraling off an icicle and into the pool below,
+      causing rings to radiate across the still water.
     </p>
     <p>
       Her mother frowned, looking at her imploringly. “Lanoire, a small change
@@ -327,34 +328,34 @@ const SecondPage = () => (
       studies before yourself, for a change.”
     </p>
     <p>
-      Annoyed, but unable to argue, Lanoire stared down the open book as if were
-      an opponent in a fight. At the door, her mother held her gaze, the blue of
-      the temple refracting off her steely gray eyes.
-    </p>
-    <p>
-      “I'll be back soon enough, and'll be expecting a summary with emphasis on
-      the many <i>functions</i> of Polynasium when I return."
-    </p>
-    <p>
-      Lanoire didn't even know what that word meant, but after her mother
-      disappeared and the temple once again settled into it's all-encompassing
-      silence, there was little else to do but read.
+      Lanoire stared down the slate tablets as if they were opponents in a
+      fight. At the door, her mother held her gaze, the blue of the temple
+      refracting off her steely gray eyes.
     </p>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-4.jpg" />
     </div>
-
+    <p>
+      “I'll be back soon enough, and'll be expecting a summary with emphasis on
+      the <i>many functions</i> of Polynasium when I return."
+    </p>
+    <p>
+      Lanoire didn't even know what that word meant, but her mother disappeared
+      before she could argue, and the temple quickly settled into it's
+      all-encompassing silence. It was still early in the morning, and who knew
+      when her mother would return? Lanoire sighed. There was little else to do
+      but read.
+    </p>
     <p>
       Studying the Panthera was almost as grueling as the walk to the temple.
       The tablets had been compiled by many generations of handpaws, the oldest
-      were so smooth that the inscriptions were barely legible. All clades of
-      Animalkind had their own such texts, mapping animal laws, territories and
-      culture.
+      stones so smooth that the inscriptions were barely legible. All clades of
+      Animalkind had their own such texts; words of law, territory and culture.
     </p>
     <p>
-      The clade of Canidae had their Dogan Ra, most Striga lived according to
-      the commandments in their Stardex, but even though her parents had penned
+      The clade of Canidae had their Dogan Ra, most Avian lived according to the
+      commandments in their Stardex, but even though her parents had inscribed
       some of the more recent inserts of the Panthera themselves, the writing
       was archaic and difficult to understand. A whole hour passed and the words
       still swam in front of her eyes, the drawings of the clades blurring
@@ -364,8 +365,10 @@ const SecondPage = () => (
       <i>Leonen, Tigren, Jaguarn, Caraclene.</i>
     </p>
     <p>
-      She knew some of the others, but not well. Canidae had their Dogan,
-      Cyrote, and Wolf, but had once been made up of many others.
+      She knew some of the others, but not well. Canidae had their
+      <i> Dogan, Cyrote</i>, and <i>Wolf</i>, while the Avian were made up of
+      long-feathered <i>Strigine</i> and colorful <i>Sitisine</i>, and according
+      to her parents, had once been made up of many others.
     </p>
     <p>
       There was a deep groan of ice from the glacier, followed by a resounding
@@ -381,9 +384,8 @@ const SecondPage = () => (
       match. It was too high, too wavering.
     </p>
     <p>
-      She turned to see two much smaller faces peering around the columns of the
-      Temple of Bast. Her brothers, Sabin and Nasir, both looking around in
-      amazement.
+      She turned to see two faces peering around the columns of the Temple of
+      Bast. Her brothers, Sabin and Nasir, both looking around in amazement.
     </p>
     <div className={style.comicPanel}>
       <span>
@@ -409,22 +411,24 @@ const SecondPage = () => (
       Lanoire pinned her ears at this news, crossing her arms. She looked to her
       eldest brother, who was usually the more trustworthy.
     </p>
-    <p>“Now? But it isn’t late enough into the season," she responded.</p>
+    <p>
+      “Now? But it isn’t late enough into the season," she responded. Even her
+      mother had said the same, and Lanoire couldn't remember a time when she'd
+      ever been wrong.
+    </p>
     <p>Nasir only shrugged. “Suppose spring came early this year.”</p>
     <p>
       Lanoire searched his face for some crease of a lie. At this altitude,
       anything larger than rabbits were a rarity, and even those were hard to
       come by. The herds of Markhorein that lived in the mountains were elusive
       and kept to the highest, steepest cliffs of the Gokyo Ri, where they could
-      easily disappear. Their descent marked the start of the Spring Ceremony
-      every year.
+      easily disappear.
     </p>
     <p>
-      A flash of speartips swam through her memory, leonen jogging side-by-side
-      through the snow. Maybe the tribe hadn’t gone looking for her brothers at
-      all, but had been alerted to the early signs of the herds descent. The
-      prospect of such a spectacular hunt made Lanoire’s heart thrill, but
-      skepticism still gripped her.
+      A flash of speartips swam through her memory, Leonen jogging side-by-side
+      through the snow. So she'd been right about the herds. The prospect of
+      such a spectacular hunt made Lanoire’s heart thrill, but skepticism still
+      gripped her.
     </p>
     <p>It was too good to be true.</p>
     <p>
@@ -437,8 +441,8 @@ const SecondPage = () => (
       the same. She was supposed to be studying, but even if she wanted to, how
       could she stay indoors now? The mountains called to her like wind to a
       bird. She barely cast a look over the cool blue walls of the temple before
-      slipping out of her robes and casting aside as many of the ceremonial
-      jewels she wore as she could before running for the slender beams of
+      slipping out of her robes and casting aside as many of the traditional
+      crystals she wore as she could before running for the slender beams of
       daylight at the temples entrance, the slates of the discarded Panthera
       still scattered across the ice.
     </p>
@@ -460,20 +464,31 @@ const SecondPage = () => (
     <p>
       Although her brothers were only a few minutes older than she was, they
       were much larger. Their dark gray baby fur replaced by the same glossy
-      off-white coat shared by rest of her clade two springs ago.
+      off-white coat shared by rest of her clade two springs ago. Against the
+      snow they were invisible, while Lanoire was forced to hesitate at each
+      clearing.
     </p>
     <p>
-      Against the snow her brothers were invisible, while Lanoire was forced to
-      hesitate at each clearing. Unlike them, she was easy to spot out in the
-      open, and could spook the herd if she moved too quickly. She dashed from
-      boulder to boulder, crouching low against the rough rock face as sweeping
-      gusts of wind threatened to toss her right over the edge.
+      Unlike them, she was easy to spot out in the open, and could easily spook
+      the herd if she moved too quickly. She dashed from boulder to boulder,
+      crouching low against the rough rock face as sweeping gusts of wind
+      threatened to toss her right over the edge.
+    </p>
+    <div className={style.comicPanel}>
+      <span>
+        <strong>SCENE:</strong>
+        Lanoire descends the steep cliffs of the Gokyo Ri
+      </span>
+    </div>
+    <p>
+      “Shouldn’t we go down?” she said in a voice barely above a whisper. She
+      was never allowed this far from the village, and could feel her handpaws
+      trembling in the wind. “If the Markhorein have gone into the valley, we
+      wont run into them from way up here.”
     </p>
     <p>
-      “Shouldn’t we go down?” she said in a voice barely above a whisper. “If
-      the Markhorein have gone into the valley, we wont run into them from way
-      up here.” Nasir scented the air, flattening himself low against the snow
-      as he picked up something on the breeze.
+      Nasir merely scented the air, flattening himself low against the snow as
+      he picked up something on the breeze.
     </p>
     <p>
       "Don't need to run into them,” he said, his voice tremulous with
@@ -494,22 +509,8 @@ const SecondPage = () => (
       But with little vegetation able to conceal them as they struck out further
       on the cliffs, Lanoire felt every hair on the back of her neck standing
       up. In some places, there was nothing but snow, and what little cover she
-      found was from shadows and crevasses in the stone, where she could crouch
-      when the wind picked up.
+      could find was hunched into narrow gaps in the rock.
     </p>
-    <p>
-      It was slow going, Nasir picking a path through the snow. He was
-      especially surefooted, his ringed tail balancing him against powerful
-      gusts of wind as if he were merely on a stroll through the village.
-      Lanoire had to crawl on all fours to keep her footing as she followed him,
-      claws scratching for purchase.
-    </p>
-    <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong>
-        Lanoire descends the steep cliffs of the Gokyo Ri
-      </span>
-    </div>
     <p>
       Suddenly, Nasir stopped, ducking low on a ledge only a little bigger than
       he was. Lanoire and Sabin followed suit as he pointed to a shady crease in
@@ -538,26 +539,21 @@ const SecondPage = () => (
     </p>
     <p>“That one.”</p>
     <p>
-      Nasir considered her choice. It would be difficult to get aligned with the
-      herd without losing their vantage point behind snowdrifts, but if they
-      snaked along the curve of the rim, they would be right on top of them —
-      then, all there is to do is wait.
-    </p>
-    <p>
-      "Fine," he said as they struck out again, moving with agonizing slowness
-      as they watched the herd. Grazing quietly in the valley below, they were
-      completely unaware of the approaching danger. One of them looked up
-      abruptly, making them all freeze, but it was staring in the opposite
-      direction, its round ears twitching at a sound carrying on the wind.
+      Nasir considered her choice, then said, "Fine," and they struck out again,
+      moving with agonizing slowness as they watched the herd graze in the
+      distance. They were completely unaware of the approaching danger. One of
+      them looked up abruptly, making them all freeze, but its head swiveled
+      around in the opposite direction, its round ears twitching at a sound
+      carrying on the wind.
     </p>
     <p>
       Just as they got close enough to the ledge to make out the herd in detail,
       a loud bang ricocheted off the Gokyo Ri and the snow under Lanoire’s
       footpaws give way. Before she could do anything to stop it, she went
       careening over the cliff in a spray of snow. She thought she saw something
-      glinting on the other side of the canyon, but shortly after, her head hit
-      a rock and she went crashing into the ravine, her brothers startled faces
-      the last thing she remembered as the world disappeared behind her.
+      glinting on the other side of the canyon, but then her head hit a rock and
+      she went crashing into the ravine, her brothers startled faces the last
+      thing she remembered as the world disappeared behind her.
     </p>
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-6.jpg" />

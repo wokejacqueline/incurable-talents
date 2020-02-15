@@ -1,7 +1,14 @@
 @import "src/components/vars.scss";
 
-body p {
+body p,
+body i,
+body u,
+body strong {
   font-family: "San Francisco", Helvetica, sans-serif;
+  &::selection {
+    background-color: rgba(black, 0.8);
+    color: white;
+  }
 }
 
 .comicPanel {
