@@ -17,9 +17,9 @@ const SecondPage = () => (
     <h1>1. The Gokyo Ri</h1>
     <h2>Lanoire</h2>
     <p>
-      A group of snow white leonen jogged through the village clutching
-      elaborate spears in their handpaws, while higher up along the ridge a
-      small gray figure in a hooded cloak stopped to watch.
+      A group of snow white Leonen jogged through the village clutching
+      elaborate spears in their handpaws, while high on the ridge a small gray
+      figure in hooded robes stopped to watch.
     </p>
 
     <p>
