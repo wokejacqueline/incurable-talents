@@ -38,32 +38,36 @@ const SecondPage = () => (
     </p>
     <p>"Is it the herds?” she asked.</p>
     <p>
-      A shadow crossed over her mothers face, but her tone was annoyed. "The
-      river Oyo is still locked in ice, it will be weeks before they descend."
+      A shadow crossed over her mothers face. "The river Oyo is still locked in
+      ice, it will be weeks before they descend. You should know this."
     </p>
     <p>
-      But Lanoire knew it must have been something important. More than half the
-      tribes warriors were setting out into the forest. She risked another
-      glance at the disappearing spear tips, searching for her father. Under the
-      shifting wolf pelts and markhorein skull-masks she couldn't find his face,
-      but she knew he was among them.
+      Lanoire <i>should</i> have known this - but why else would the tribe's
+      warriors be going into the Black Forest?
+    </p>
+    <p>
+      According to her mother, spring was still more than a month away - a sense
+      she had after studying the Panthera all her life, and one Lanoire was
+      supposed to have developed by now, too. But even after all her mornings
+      studying in the temple, it seemed to her that spring was just around the
+      corner. The snow was turning to slush in places, and Lanoire couldn't help
+      picturing the lower valley flooded with wildlife, signaling the start of
+      the Tian Ma's short hunting season.
+    </p>
+    <p>
+      Lanoire risked another glance at the disappearing spear tips, searching
+      for her father. Under the shifting wolf pelts and markhorein skull-masks
+      she couldn't find his face, but she knew he was among them.
     </p>
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
       <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-1.2.jpg" />
     </div>
-    <p>
-      Spring was still more than a month away according to her mother's
-      calculation - a sense Lanoire should've had, too, after all her years of
-      study in the Temple of Bast - but to her it seemed like spring was just
-      around the corner. The snow was turning to slush in places, and Lanoire
-      couldn't help herself picturing the lower valley flooded with wildlife.
-    </p>
 
     <p>
-      “Lanoire, if I have to tell you again-” her mothers voice once again
-      interrupted her reverie, and she was forced to look away.
+      “Lanoire, if I have to tell you again-” her mothers voice interrupted, and
+      she was forced to look away.
     </p>
     <p>
       “I’m going as fast as I can,” she bit back, her tufted ears flattening
@@ -74,7 +78,7 @@ const SecondPage = () => (
       wore around her wrists and ankles did not make things any easier. The trek
       to the Temple of Bast threaded up a narrow trail etched into the
       mountainside, one she’d walked many times before, but which now felt
-      impossibly distant.
+      impossibly distant dressed in heavy robes.
     </p>
     <p>
       "Perhaps if I wasn’t wearing this old blanket,” Lanoire began, but was
@@ -89,9 +93,9 @@ const SecondPage = () => (
       reaching the end of the trail until the sun was at their backs and the
       village below them lost to an ocean of pink and white clouds. To those on
       the ground, the temple was little more than speck, visible only in
-      glimpses through the parting clouds — but up close, the ancient blue
-      glacier had been cut into bricks and formed into a spectacular palace of
-      ice.
+      glimpses through the parting clouds — but up close, Lanoire could see the
+      sparkling blue glacier, cut into bricks and formed into a spectacular
+      palace of ice.
     </p>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
@@ -100,9 +104,9 @@ const SecondPage = () => (
 
     <p>
       Carved with huge statues of Panthera, the ice gleamed in the morning
-      sunlight. Lanoire walked with her eyes downcast, eager to be past the
-      statues. Even after all these years, she'd never been able to shake the
-      old fear that she was being watched.
+      sunlight. Lanoire walked with her eyes downcast, eager to be past them.
+      Even after all these years, she'd never been able to shake the old fear
+      that she was being watched.
     </p>
 
     <p>
@@ -116,15 +120,15 @@ const SecondPage = () => (
       She was glad when at last they entered the gloom of the temple itself, its
       deep-blue walls rising around them like an ocean wave. Lanoire hesitated
       as her mother rapped her staff on a crack in the ground and blue flames
-      sprang up from beneath it, racing around the edges of the temple.
+      sprang up from beneath it, racing toward the edges of the temple.
     </p>
     <p>
       Producing no heat, the blaze bathed everything in a shade of pale
       underwater blue. She’d seen her mother do this many times, but couldn’t
       help the shiver that ran through her each time cold air rushed through the
       glacier. When she was much younger she’d been incessantly curious about
-      the staff, but as she got older, she realized it merely created a spark
-      which ignited the fire-beds at the edge of the temple.
+      the staff, but as she got older, she realized it merely created a spark,
+      which ignited the fire-beds at the edge of the temple. Nothing more.
     </p>
     <p>
       The mechanism only <i>seemed</i> magical.
@@ -144,11 +148,11 @@ const SecondPage = () => (
     </p>
     <p>
       She'd been told she'd grow into it, but it was taking an awfully long
-      time. Spring had crossed the mountains twelve times, but the watercolor of
-      black spots she'd been born with still covered her stubbornly from ear to
-      tailtip. Her brothers, who were only a few minutes older than she was, had
-      grown into their adult fur two years ago, yet she still had the
-      countenance of a sheep.
+      time. Spring had crossed the mountains twelve times already, but the
+      watercolor of black spots she'd been born with still covered her
+      stubbornly from ear to tailtip. Her brothers, who were only a few minutes
+      older than she was, had grown into their adult fur two years ago, yet she
+      still had the countenance of a dark mountain sheep.
     </p>
     <p>
       With the thirteenth spring of Lanoire's life right around the corner, she
@@ -163,32 +167,34 @@ const SecondPage = () => (
 
     <p>“Set the tea,” came her mothers low command.</p>
     <p>“I know,” she huffed.</p>
-    <p> The routine never changed.</p>
     <p>
-      In fact, it seemed somehow inescapable. Each morning, she endured a
-      grueling hike to the temple to read books she barely understood, only to
-      hike back down at dusk to help with chores until she was exhausted. All
-      while her brothers sharpened their claws hunting in the Black Forest.
+      The routine never changed. In fact, it seemed somehow inescapable. Each
+      morning, she endured a grueling hike to the temple to read from old books
+      and stone tablets that she barely understood, only to hike back down at
+      dusk to help with chores until she was exhausted. All while her brothers
+      sharpened their claws hunting in the Black Forest.
     </p>
+    <p>It wasn't fair.</p>
     <p>
-      It wasn't fair. She'd long suspected that her mind was just not cut out
-      for such learning. She craved the thrill of the wind in her fur, the sound
-      of prey creeping through the darkness of the woods. Even now, she could
-      not focus on her chores or the serenity of the dripping glacier. Her mind
-      wandered, searching for a distraction.
+      {" "}
+      She'd long suspected that her mind was just not cut out for such learning.
+      She craved the thrill of the wind in her fur, the sound of prey creeping
+      through the darkness of the woods. Even now, she could not focus on her
+      chores or the serenity of the dripping glacier. Her mind wandered,
+      searching for a distraction.
     </p>
 
     <p>
       She dragged the samovar across the ice with a clatter, earning her a glare
       from her mother, but Lanoire ignored it. Her mother was dressed in a
-      matching silver sare, but her fur had long ago turned the same
-      silvery-white as the rest of their clade, with only the faintest gray
-      ringlets of spots still visible on her forehead.
+      matching silver robe, called a <i>Sare</i>, but her fur had long ago
+      turned the same off-white as the rest of their clade, with only the
+      faintest gray ringlets of spots still visible on her forehead.
     </p>
     <p>
-      On her the <i>sare</i> seemed regal — fitting for the tribes matron. At
-      nearly sixty years old, and with three surviving children, her mother was
-      a rarity among their clade. The punishing winters of Nehenya made it
+      On her the sare seemed regal — fitting for the tribes matron. At nearly
+      sixty years old, and with three surviving children, her mother was a
+      rarity among their clade. The punishing winters of the Tian Ma made it
       nearly impossible to raise young, but in spite of that, the entire litter
       survived, growing older and stronger each year.
     </p>
@@ -213,22 +219,23 @@ const SecondPage = () => (
     <p>
       Nowadays, they were constantly supervised — or as Nasir liked to joke,
       <i> guarded</i>. Although the Tian Ma were a vast range of mountains,
-      they'd been warned since birth to stick to the safety of the upper peaks.
-      The forests below were Dogan territory and viciously guarded, but her
-      brothers had snuck off more than once, regailing her with tales of dense
-      greenery and mists as thick as snow.
+      they'd been warned since birth to stick to the safety of the upper peaks
+      of Nehenya and the Goy Oyo. The forests below were Dogan territory and
+      viciously guarded, but her brothers had snuck off more than once,
+      regailing her with tales of dense greenery and mists as thick as snow.
     </p>
     <p>
       A loud crack somewhere deep in the glacier made Lanoire startle, sloshing
       the tea over the rim of the cup. She was suddenly glad for her dark fur -
-      at least the dark blue liquid did not leave a stain - when she noise came
-      again, this time clacking and rattling, like the glacier was going to
-      split in two straight over them.
+      at least the dark blue liquid did not leave a stain. When the noise came
+      again the glacier cracked and rattled, like it was going to split in two
+      straight on top of them.
     </p>
     <p>
-      A moment later, a young male leonen appeared at the entrance. Breathless
-      from racing up the trail on his own, he struggled to find his words while
-      he leaned on the temple's columns.
+      A moment later, a young male leonen appeared at the entrance. His footpaws
+      had been so loud and clumsy, it sounded like an avalanche. Breathless from
+      racing up the trail on his own, he struggled to find his words while he
+      leaned on the temple's columns.
     </p>
     <p>“Alena,” he breathed.</p>
 
