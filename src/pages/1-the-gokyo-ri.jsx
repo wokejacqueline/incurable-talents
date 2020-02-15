@@ -472,10 +472,7 @@ const SecondPage = () => (
       threatened to toss her right over the edge.
     </p>
     <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong>
-        Lanoire descends the steep cliffs of the Gokyo Ri
-      </span>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-11.jpg" />
     </div>
     <p>
       “Shouldn’t we go down?” she said in a voice barely above a whisper. She
