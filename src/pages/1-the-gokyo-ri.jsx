@@ -210,10 +210,7 @@ const SecondPage = () => (
 
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong> (Distant-memory-looking) Young Noire, Nasir,
-        Sabin looking shook
-      </span>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-10.jpg" />
     </div>
 
     <p>
