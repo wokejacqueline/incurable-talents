@@ -20,7 +20,7 @@ const IndexPage = () => (
             description="Tired of a life of duty and responsibility, Lanoire goes hunting in the Gokyo Ri."
             link="/1-the-gokyo-ri/"
             pov="Lanoire"
-            size="42 kb / 12 min read"
+            size="11.25 mb / 18 min read"
             title="1. The Gokyo Ri"
           />
           <FeaturedSlide
