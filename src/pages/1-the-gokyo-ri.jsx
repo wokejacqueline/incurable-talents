@@ -385,10 +385,7 @@ const SecondPage = () => (
       Bast. Her brothers, Sabin and Nasir, both looking around in amazement.
     </p>
     <div className={style.comicPanel}>
-      <span>
-        <strong>SCENE:</strong>
-        <b>NASIR</b> and <b>SABIN</b> lookin around the temple columns
-      </span>
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-12.jpg" />
     </div>
     <p>
       “What are you two doing here?” she growled, unable to hide her surprise.
