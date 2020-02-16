@@ -631,8 +631,11 @@ pre tt:after {
   right: 0px;
   padding-left: 20px;
   padding-top: 20px;
-  @include respond-to($phone) {
-    bottom: -10px;
+  @include respond-to($tablet-portrait) {
+    bottom: -60px;
+    p {
+      margin-bottom: 0px;
+    }
   }
 }
 
