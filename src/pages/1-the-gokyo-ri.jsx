@@ -128,7 +128,7 @@ const SecondPage = () => (
       help the shiver that ran through her each time cold air rushed through the
       glacier. When she was much younger she’d been incessantly curious about
       the staff, but as she got older, she realized it merely created a spark,
-      which ignited the fire-beds at the edge of the temple. Nothing more.
+      which ignited the fire-beds at the edge of the temple.
     </p>
     <p>
       The mechanism only <i>seemed</i> magical.
@@ -493,7 +493,7 @@ const SecondPage = () => (
     </p>
     <p>
       They edged along the rim, carefully picking out a path down the
-      near-vertically grade of the canyon. If they could catch sight of the herd
+      near-vertical grade of the canyon. If they could catch sight of the herd
       down below, it would merely be a matter of finding a good spot to hide.
     </p>
     <p>
