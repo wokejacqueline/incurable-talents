@@ -13,13 +13,10 @@ body {
   background-color: #695f64;
   background-image: linear-gradient(#695f64, #000000);
   overflow: hidden;
+  min-height: 100vh;
 }
 
 .snappySliderWrapper {
   margin-top: 20px;
   margin-bottom: 40px;
-}
-
-.Footer {
-  position: relative;
 }

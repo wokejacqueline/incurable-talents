@@ -1,24 +1,12 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
+import style from "./layout.module.scss"
+
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `transparent`,
-      position: `sticky`,
-      top: `0px`,
-      textAlign: `left`,
-      zIndex: `9`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `15px 20px`,
-      }}
-    >
+  <header className={style.header}>
+    <div className={style.headerContent}>
       <h2 style={{ margin: 0 }}>
         <Link
           to="/"

@@ -626,13 +626,14 @@ pre tt:after {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   position: absolute;
-  bottom: -40px;
+  bottom: 0px;
   left: 0px;
   right: 0px;
   padding-left: 20px;
   padding-top: 20px;
+  z-index: 100;
   @include respond-to($tablet-portrait) {
-    bottom: -60px;
+    bottom: -20px;
     p {
       margin-bottom: 0px;
     }
@@ -642,4 +643,30 @@ pre tt:after {
 .introImageWrapper {
   margin-left: -20px;
   margin-right: -20px;
+  @include respond-to($tablet-portrait) {
+    margin-left: -40px;
+    margin-right: -40px;
+  }
+}
+
+.layout {
+  padding-left: 20px;
+  padding-right: 20px;
+  @include respond-to($tablet-portrait) {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+.header {
+  background-color: transparent;
+  position: sticky;
+  top: 0px;
+  text-align: left;
+  z-index: 200;
+  .headerContent {
+    margin: 0px auto;
+    max-width: 730px;
+    padding: 16px 24px;
+  }
 }

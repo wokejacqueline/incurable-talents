@@ -26,16 +26,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 680,
-          minHeight: `calc(100vh - 40px)`,
-          padding: `0px 20px 0px`,
-          paddingTop: 0,
-          position: `relative`,
-        }}
-      >
+      <div className={style.layout}>
         <main>{children}</main>
         <footer className={style.footer}>
           <p className={style.copyright}>
