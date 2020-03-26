@@ -26,11 +26,11 @@ const IndexPage = () => (
           <FeaturedSlide
             disabled
             button="Coming Soon"
-            description="The party returns to Ledak after a successful hunt. Aubre sees the sea."
-            link="/2-shahzade/"
+            description=""
+            link="/2-animalkind/"
             pov="Aubre"
             size="195 kb / 21 min read"
-            title="2. Shahzade"
+            title="2. Animalkind"
           />
           <FeaturedSlide
             disabled
