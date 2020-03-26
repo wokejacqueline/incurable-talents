@@ -4,7 +4,7 @@ export default ({ children }) => (
   <div className={style.container}>
     <div className={style.titleContainer}>
       <img
-        src="httsps://incurable.s3.amazonaws.com/incurable-cover-layer-2.png"
+        src="https://incurable.s3.amazonaws.com/incurable-cover-layer-2.png"
         classname={style.layer2}
       />
       <div className={style.title}>
