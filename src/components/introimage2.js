@@ -14,10 +14,10 @@ import style from "./layout.module.scss"
  * - `useStaticQuery`: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-const IntroImage = () => {
+const IntroImage2 = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage1: file(relativePath: { eq: "incurable-woods-0.jpg" }) {
+      placeholderImage2: file(relativePath: { eq: "incurable-woods-1.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 680) {
             ...GatsbyImageSharpFluid
@@ -29,9 +29,9 @@ const IntroImage = () => {
 
   return (
     <div className={style.introImageWrapper}>
-      <Img fluid={data.placeholderImage1.childImageSharp.fluid} />
+      <Img fluid={data.placeholderImage2.childImageSharp.fluid} />
     </div>
   )
 }
 
-export default IntroImage
+export default IntroImage2

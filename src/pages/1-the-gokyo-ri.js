@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import IntroImage from "../components/introimage"
-import Image from "../components/image"
 import SEO from "../components/seo"
 import style from "./1-the-gokyo-ri.module.scss"
 

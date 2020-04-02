@@ -24,9 +24,8 @@ const IndexPage = () => (
             title="1. The Gokyo Ri"
           />
           <FeaturedSlide
-            disabled
-            button="Coming Soon"
-            description=""
+            button="Read Chapter"
+            description="A close encounter with animalkind forces an unexpected detour through Natansi."
             link="/2-animalkind/"
             pov="Aubre"
             size="195 kb / 21 min read"
