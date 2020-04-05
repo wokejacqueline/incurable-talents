@@ -31,11 +31,10 @@ const SecondPage = () => (
         charcoal-gray fur, it could have been some strange, vestigial human
         ancestor.
       </p>
-
       <p>
         “Look at it’s fangs,” said the prince, grinning with one boot on the
-        back of the cart as two men in dark blue cloaks threw it with the other
-        carcasses. Curved canine teeth were partly exposed where its mouth hung
+        back of the cart as two men in dark blue cloaks hauled the creature up
+        for him. Curved canine teeth were partly exposed where its mouth hung
         open, and blood stained the fur on its thigh where the bullet had
         struck.
       </p>
@@ -55,548 +54,358 @@ const SecondPage = () => (
         had happened, the facts stretching precariously thin.
       </p>
       <p>
-        “If I hadn't seen the beasts sneaking up the ledge, they could have been
-        upon us,” he said dramatically. “Clouds covering everything. It must
-        have been two hundred meters - brought the animal down in a complete
-        white-out.”
+        They were on their second day into their trek to Bushkehr, the lumber
+        yard some forty miles outside town, when the prince had seen the
+        creatures slinking along a ledge above them. Aubre barely had time to
+        look up and see a long spotted tail - which at the time she thought was
+        a frozen treelimb - when a deafening gunshot echoed through the canyon.
       </p>
       <p>
-        “It was fine marksmanship, <i>shahzade</i>,” one of his men agreed,
-        using the prince’s formal title as he knotted a makeshift rope collar
-        around the beasts throat. An extra precaution. Like the other uniformed
-        guard that'd accompanied the prince on his trip from the Royal City, the
-        man seemed uneasy to be around it. But the prince would not allow
-        another shot be fired.
+        Her ears were <i>still</i> ringing from the blast.
       </p>
       <p>
-        “You’ll ruin the pelt if you keep putting holes in it,” he complained,
-        peering over the small wooden wagon at the crimson stain in the animals
-        fur with a frown.
+        “If I hadn't seen the beast sneaking around in the shadows, it would
+        have been upon us,” he said dramatically. “Clouds covering everything.
+        It must have been two hundred meters, and in a complete white-out.”
+      </p>
+      <p>
+        "A keen eye and fine marksmanship, <i>shahzade</i>,” one of his men
+        agreed, using the prince’s formal title as he knotted a makeshift rope
+        collar around the beasts throat. An extra precaution. Like the other
+        uniformed guard that'd accompanied him, the man seemed uneasy to be
+        around the creature, but the prince would not allow another shot be
+        fired.
+      </p>
+      <p>
+        “You’ll ruin the pelt if you keep putting holes in it,” he'd complained
+        after seeing it in the ravine, and now peered over the small wooden
+        wagon at the crimson stain in the animals fur with a frown.
       </p>
       <p>
         “You should listen to your men,” Aubre’s father warned, pulling an
-        ice-flecked bandana over his face as the wind picked up. "And leave that
-        monstrosity in the ravine, where it fell."
+        ice-flecked bandana over his face as the wind picked up. "It was clearly
+        stalking us, and it's deformed, diseased. You should leave it in the
+        ravine, where it fell."
       </p>
       <p>
-        The prince scoffed at his superstition. “I’ll give it to the Alsaints
-        when we get back to the Royal City, see if they can clean up the pelt a
-        bit. I doubt it'll even make it to town still breathing.”
+        The prince scoffed at his superstition, but before he could get another
+        word in, her father trudged off to tend to the yaks. Dressed in patchy
+        rabbit furs corded together with strips of leather, it was clear that
+        Astly Fauchard was annoyed at arguing with a boy only a third of his
+        age, regardless of title.
       </p>
       <p>
-        "One can hope," said her father, before trudging off to tend the yaks.
-        Dressed in patchy rabbit furs corded together with strips of leather, it
-        was clear that Astly Fauchard was annoyed at arguing with a boy a third
-        of his age, regardless of title.
+        His imposing figure was a well-known one in Ledak. Once a soldier in the
+        Land Army and now retired, he'd moved to the small mountain town to
+        raise his daughter after the war, and now only did work as a guide in
+        the spring and summer, when the weather wasn't as punishing.
       </p>
       <p>
-        His imposing figure was well-known around Ledak. Once a soldier and now
-        retired, he'd moved to the small mountain town to raise his daughter
-        after the war,
-      </p>
-    </div>
-    <div className={style.copy}>
-      <p>
-        “Lanoire, if I have to tell you again-” her mothers voice interrupted,
-        and she was forced to look away.
-      </p>
-      <p>
-        “I’m going as fast as I can,” she bit back, her tufted ears flattening
-        against her long black hair as she jogged to catch up.
+        When the crown prince and his men arrived in Ledak asking for passage to
+        Bushkehr, her father didn't ask questions, merely set a price. Aubre had
+        barely ever heard anyone mention the lumber yard in conversation before.
+        She only knew of it because of the stream of soldiers that she'd seen
+        floating heavy logs down the river Choy Oyo in the spring since she was
+        young. She'd never been there herself, and had no idea what a crown
+        prince would want with a lumber yard this far away from the Royal City,
+        but she'd never met a prince before, and she'd been eager to accompany
+        them on the journey all the same.
       </p>
       <p>
-        She’d tripped on her robes more than once already and the bracelets she
-        wore around her wrists and ankles did not make things any easier. The
-        trek to the Temple of Bast threaded up a narrow trail etched into the
-        mountainside, one she’d walked many times before, but which now felt
-        impossibly distant dressed in heavy robes.
+        Most of the time, life in Ledak was quiet, the land almost perpetually
+        blanketed by thick snow. The most exciting thing Aubre looked forward to
+        each month was trading furs and meats in the center of town from their
+        hunting trips in the woods. It was the only time she ever saw other
+        children her own age, which there were so few of in the town that there
+        wasn't even a school.
       </p>
       <p>
-        "Perhaps if I wasn’t wearing this old blanket,” Lanoire began, but was
-        quickly cut short.
+        She jogged to catch up with her father. Even though she was already
+        sixteen years old, she was small and scrawny and wore her hair cropped
+        close, like a boys. The harsh half-year winters in the Tian Ma kept her
+        lean as a hunting dog, and despite being bundled in layers of fur and
+        leather, it was obvious by the hollows under her eyes and the sharp
+        slope of her cheekbones that she was rail thin.
       </p>
       <p>
-        "If you’d gotten up on time, you could’ve dressed in the temple,” came
-        her mother’s low growl.
+        She helped check the yak’s harnesses while her father looked ahead at
+        where the canyon coiled back into the gloom of the forest.
+      </p>
+      <p>“What’s wrong?”</p>
+      <p>
+        She’d never seen him so distracted. In the forest he was always focused,
+        noticing even the smallest change in the yaks gait, snow crunching
+        through the evergreens, a rifle perpetually close at hand.
       </p>
       <p>
-        Lanoire made a face, and they walked the rest of the way in silence, not
-        reaching the end of the trail until the sun was at their backs and the
-        village below them lost to an ocean of pink and white clouds. To those
-        on the ground, the temple was little more than speck, visible only in
-        glimpses through the parting clouds — but up close, Lanoire could see
-        the sparkling blue glacier, cut into bricks and formed into a
-        spectacular palace of ice.
+        "I've seen beasts like that before,” he said quietly, his tone wavering
+        in an unusual display of concern. "Back in the Land Army."
       </p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-2.2.jpg" />
-    </div>
-    <div className={style.copy}>
+      <p>"What?"</p>
       <p>
-        Carved with huge statues of Panthera, the ice gleamed in the morning
-        sunlight. Lanoire walked with her eyes downcast, eager to be past them.
-        Even after all these years, she'd never been able to shake the old fear
-        that she was being watched.
-      </p>
-
-      <p>
-        Her mother had once told her that the Panthera of old were watching over
-        them all, but Lanoire had never come to appreciate the distinction. From
-        a young age, the statues in the temple loomed in the back of her mind,
-        the towering faces of Bast’s daughters even following her in dreams.
-      </p>
-
-      <p>
-        She was glad when at last they entered the gloom of the temple itself,
-        its deep-blue walls rising around them like an ocean wave. Lanoire
-        hesitated as her mother rapped her staff on a crack in the ground and
-        blue flames sprang up from beneath it, racing toward the edges of the
-        temple.
+        Aubre was surprised to hear him say this. He almost never talked about
+        his life before she was born, especially his days in the military. Her
+        dark eyes searched the walls of the canyon, suddenly unable to shake the
+        foreboding feeling that’d come over her as the yaks strained at their
+        harnesses, seeming as eager to leave the frozen river as they were.
       </p>
       <p>
-        Producing no heat, the blaze bathed everything in a shade of pale
-        underwater blue. She’d seen her mother do this many times, but couldn’t
-        help the shiver that ran through her each time cold air rushed through
-        the glacier. When she was much younger she’d been incessantly curious
-        about the staff, but as she got older, she realized it merely created a
-        spark, which ignited the fire-beds at the edge of the temple.
+        “I thought it was just sickly, you know how sometimes deer antlers grow
+        crooked when the winters don’t let up early enough,” Aubre murmured,
+        more to herself than anyone. “<i>Shahzade</i> did it a kindness.”
       </p>
       <p>
-        The mechanism only <i>seemed</i> magical.
-      </p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-7.jpg" />
-    </div>
-    <div className={style.copy}>
-      <p>
-        In a rectangular pool of water at the temples heart, Lanoire could see
-        her reflection, and frowned at how formal she looked. The sare she wore
-        had belonged to her mother when she was her age, but it was still far
-        too big on her, and draped off her shoulders like a curtain, making her
-        look even smaller than she was.
+        “Different kind of sickness," he said, staring ahead pensively. "And
+        even so, what do we do with the sick? Leave them where they lie. Not
+        take them home to hang in the trophy room!"
       </p>
       <p>
-        She'd been told she'd grow into it, but it was taking an awfully long
-        time. Spring had crossed the mountains twelve times already, but the
-        watercolor of black spots she'd been born with still covered her
-        stubbornly from ear to tailtip. Her brothers, who were only a few
-        minutes older than she was, had grown into their adult fur two years
-        ago, yet she still had the countenance of a dark mountain sheep.
+        Aubre looked over her shoulder at where the prince and his guards were
+        now squeezing into the small covered cabin. Out here, the rugged
+        landscape reigned supreme, and they could nfot tolerate the frigid cold
+        for long. When they stopped to make camp the night before, it was
+        misery, with only a small fire and no luxuries, not even a spoon to
+        scrape their meals of warmed <i>tsempe</i> - balls of yaks butter,
+        coated in a thick layer of toasted barley - out of the cast iron.
       </p>
       <p>
-        With the thirteenth spring of Lanoire's life right around the corner,
-        she studied her reflection at any opportunity, eager to see the same
-        change in herself.
+        "The Alsaints called them <i>Animalkind</i>," her father continued,
+        lowering his voice as if merely mentioning the beasts would draw them
+        out into the open.
       </p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-8.jpg" />
-    </div>
-    <div className={style.copy}>
-      <p>“Set the tea,” came her mothers low command.</p>
-      <p>“I know,” she huffed.</p>
+      <p>"What are they?" said Aubre.</p>
       <p>
-        The routine never changed. In fact, it seemed somehow inescapable. Each
-        morning, she endured a grueling hike to the temple to read from old
-        books and stone tablets that she barely understood, only to hike back
-        down at dusk to help with chores until she was exhausted. All while her
-        brothers sharpened their claws hunting in the Black Forest.
-      </p>
-      <p>It wasn't fair.</p>
-      <p>
-        {" "}
-        She'd long suspected that her mind was just not cut out for such
-        learning. She craved the thrill of the wind in her fur, the sound of
-        prey creeping through the darkness of the woods. Even now, she could not
-        focus on her chores or the serenity of the dripping glacier. Her mind
-        wandered, searching for a distraction.
-      </p>
-
-      <p>
-        She dragged the samovar across the ice with a clatter, earning her a
-        glare from her mother, but Lanoire ignored it. Her mother was dressed in
-        a matching silver robe, called a <i>Sare</i>, but her fur had long ago
-        turned the same off-white as the rest of their clade, with only the
-        faintest gray ringlets of spots still visible on her forehead.
+        "Abominations," her father replied. "Human-animal hybrids, some of the
+        Alsaints earliest creations after they learned to control their magic.
+        They told us the creatures were functionally extinct, after we razed
+        Natansi. But this one looks young, a juvenile yet."
       </p>
       <p>
-        On her the sare seemed regal — fitting for the tribes matron. At nearly
-        sixty years old, and with three surviving children, her mother was a
-        rarity among their clade. The punishing winters of the Tian Ma made it
-        nearly impossible to raise young, but in spite of that, the entire
-        litter survived, growing older and stronger each year.
+        Aubre blinked, turning the word over in her mind. <i>Animalkind? </i>
+        She’d never heard of it before, not even from passing travelers. She
+        looked again toward the
+        <i> hurcha</i>, and the walls of the canyon beyond. The Black Forest
+        stretched across the entire Tian Ma mountain range, thousands of miles
+        of steep and unforgiving wilderness. They'd turned up strange creatures
+        hunting before, but who knew what its depths truly held?
       </p>
-
+      <p>“We could follow the river out west,” her father was saying. </p>
       <p>
-        Lanoire and her two brothers were born during a lucky burst of warm
-        weather, and they’d been well-looked after by the tribe ever since. Even
-        now, the memory of three infant leonen hiding under their mothers robes
-        seemed to tug at the villagers collective heartstrings. It had been so
-        long since there were children in the village, their every antic was
-        seen as endearing.
+        Aubre only had a rough knowledge of the Gokyo Ri, but she knew it ended
+        at the grassy steppes of the mountains, where its rocky slopes dissolved
+        into scrub grass, before meeting the golden sands of the Natansi desert.
+        If they went that way, at least they would be out in the open, with no
+        dense foliage to be ambushed from.
+      </p>
+      <p>
+        “But it would add another two nights, maybe three,” Aubre complained. “I
+        don’t think Shahzade would much thank us for it.”
+      </p>
+      <p>
+        “You let me deal with the boy,” he said, as they climbed into the
+        drivers seat. With the door to the hurcha barred shut, her father
+        maneuvered the yaks in a careful semicircle, the animals barely kept in
+        check by the tie-downs. When they were facing away from the forest, and
+        toward the outlet of the Gokyo Ri, he released the slack in the reins,
+        and no later, the cart began crackling over the frozen surface of the
+        river, Cho Oyo.
       </p>
     </div>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-10.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
     </div>
     <div className={style.copy}>
       <p>
-        Nowadays, they were constantly supervised — or as Nasir liked to joke,
-        <i> guarded</i>. Although the Tian Ma were a vast range of mountains,
-        they'd been warned since birth to stick to the safety of the upper peaks
-        of Nehenya and the Goy Oyo. The forests below were Dogan territory and
-        viciously guarded, but her brothers had snuck off more than once,
-        regailing her with tales of dense greenery and mists as thick as snow.
+        Even as the yaks threw their weight into the harnesses, it was difficult
+        to get moving across the slippery ice, but once they did, the animals
+        thundered along with a deafening echo. The walls of the canyon slipping
+        by in a watercolor of gray-brown stone, streaked bright blue with veins
+        of ice.
       </p>
       <p>
-        A loud crack somewhere deep in the glacier made Lanoire startle,
-        sloshing the tea over the rim of the cup. She was suddenly glad for her
-        dark fur - at least the dark blue liquid did not leave a stain. When the
-        noise came again the glacier cracked and rattled, like it was going to
-        split in two straight on top of them.
+        A dollop of snow fell from high up in the canyon, making a ledge of
+        nesting grouse burst into the sky. Aubre startled, clutching the carved
+        wooden railing. Everything seemed suddenly so hostile, dark clouds
+        racing across the sky like something alive.
       </p>
       <p>
-        A moment later, a young male leonen appeared at the entrance. His
-        footpaws had been so loud and clumsy, it sounded like an avalanche.
-        Breathless from racing up the trail on his own, he struggled to find his
-        words while he leaned on the temple's columns.
-      </p>
-      <p>“Alena,” he breathed.</p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-3.jpg" />
-    </div>
-    <div className={style.copy}>
-      <p>
-        The name traveled like a gust of wind through the still air. Her mother
-        was momentarily stunned, unable to register the sight of another
-        creature standing there, until she composed herself enough to stalk
-        toward him, radiating barely-contained fury.
+        Small bells on the yaks harnesses jingled with each hoofstep, but there
+        was no cheer to the sound. It fell like a clangor on Aubre’s ears, far
+        too loud in the failing light.
       </p>
       <p>
-        “Did you follow us?” she hissed, suddenly seeming much younger than her
-        years. A pair of curved white teeth were exposed when she growled. “None
-        are allowed in the Temple of Bast but the daughters of-”
-      </p>
-      <p>“Forgive me, please, Alena,” he cut in. </p>
-      <p>
-        Lanoire recognized him as one of the tribes warriors, a red Dogan
-        longbow strapped to his shoulders and a wolf’s pelt covering most of his
-        torso. He saw Lanoire standing there with the tea and hastily covered
-        his eyes, as if he'd caught her undressing.
+        Aubre’s hair whipped at her face and as they thundered along the frozen
+        river. When at last they reached the edge of the canyon, it offered a
+        sprawling view, the jagged peaks of the Tian Ma overtaken by hardy
+        scrub-grass and the occasional dark green burst of tall prickly sage.
+        Aubre blinked as fresh gusts of wind tore at the corners of her eyes,
+        turning her cheeks bright pink.
       </p>
       <p>
-        Lanoire didn't know what to make of it. Nobody had ever interrupted her
-        lessons before.
+        Known as Natansi, the vast desert was like an ocean separating the
+        mountains from the distant modernity of the Royal City. Sand blowing off
+        enormous sand dunes could have easily been mistaken for large, golden
+        waves — making its other nickname, the Natans Sea — suddenly very
+        prescient to Aubre, who had never ranged this far into the forest
+        before.
       </p>
       <p>
-        “Part seven and eight, the <i>Firstborns</i> and <i>Polynasium</i>,"
-        said her mother as she reached the heavy columns of ice that lined the
-        temples entrance. "I’ll just be a moment dealing with this fool."
+        “But how do we get down?” she said, trying to pick out a path.
+        Fortunately, this low into the valley, not everything was covered in
+        snow, but the ice was still dangerous, and the yaks were not as
+        sure-footed as horses. A single misstep could be lethal.
       </p>
       <p>
-        Lanoire’s ears strained to catch the conversation outside as she reached
-        for a set of heavy stone tablets. Chiseled with many years of clawmarks,
-        her family had added to the writings of Panthera every generation, and
-        one day, it would be Lanoire's job to do the same. Each morning since
-        she was strong enough to climb the six thousand steps to the peak of
-        Nehenya, she’d followed in the pawsteps of her mother, and her mothers’
-        mother to study, memorizing Starmaps and reciting Panteran grammar until
-        she could hardly think.
+        "What?" said her father, unable to hear her over the rising gale.
+        Abruptly, he looked up at the nearly-dark sky, thick with clouds. "If it
+        snows, we’ll be stuck in the open.“
       </p>
       <p>
-        A flutter of excitement made Lanoire’s stomach turn at this sudden
-        change of events. What could possibly be so important as to follow them
-        all the way up here? Lanoire was surprised he’d made the trek at all, as
-        the sheer ice was punishing, even for their own clade. Lanoire could
-        only do it because she’d always done it, the routine turning her thighs
-        to hard, steely sinew.
+        There was a pause in the wind, which Aubre used as an opportunity to
+        shout. “I think I see a way!” But just then, she heard the wooden wagon
+        door open behind them, and turned her head to see the crown prince
+        poking his head out.
       </p>
       <p>
-        “Slow down, breathe,” her mother was saying. “Tell me what you saw. How
-        far into the Gokyo Ri were they?”
+        “Why have we stopped?” he called in his accented southron voice. “Are we
+        there?”
+      </p>
+      <p>Aubre wanted to shout back, “Are you thick?” </p>
+      <p>
+        It would take them at least three days to reach Ledak, which he would
+        well know, if he hadn’t had everything in his entire life scheduled,
+        managed, and done for him. She was glad when her father spoke up before
+        she could.
+      </p>
+      <p>“Nothing to worry over, merely giving the yaks a break,” he said.</p>
+      <p>
+        “Well, then let me get a break from this miserable cart as well. I feel
+        like a sack of potatoes being hauled across the Milk Road.”
       </p>
       <p>
-        They momentarily switched to <i>Pantaren</i>, the language of
-        Animalkind, which Lanoire only knew a little of. Filled with snarls and
-        growls, it sounded more like a fight than a conversation. Lanoire still
-        couldn’t understand very much of it, but the mention of the Gokyo Ri
-        made her prick her ears.
+        “Wouldn’t advise it, Shahzade,” shouted her father in sudden earnest. He
+        wanted to get going, not follow the prince off gallivanting. “Real steep
+        is all,” he said more gently, when the prince arched an eyebrow. “Best
+        wait in the hurcha.”
       </p>
       <p>
-        Not a moment later, her mother reentered the temple looking flustered.
-        Lanoire tried to look like she'd been reading, but she couldn't stop
-        herself from peering curiously around the columns where the warrior
-        still waited, breathing clouds of white vapor into the air. Noticing
-        this, her mother moved to block her line of sight.
+        “I don’t know how it usually goes out here, Mister Fauchard,” he said,
+        forcing open th small wooden door, which had already become encrusted in
+        ice. He and his guards were tall and fair, in stark contrast to the
+        people living this far north. With a head of red-blonde hair, and a fine
+        headdress made of dark-blue silk, he looked every bit the crown prince.
+        “But where I come from, the name Hari Hahn commands respect. If the
+        bloody cows can stand around out here, then so can I.”
       </p>
       <p>
-        Lanoire looked up at her quizzically. Surely, the day wasn’t going to
-        continue as normal after such an interruption?
+        No sooner than he’d stepped out, the wind picked up with such a force
+        that his headdress was almost torn from his head, and the bands of
+        dark-blue fabric that draped over his neck flapped into his eyes.
       </p>
       <p>
-        “You'll be studying by yourself until I return,” she said seriously.
+        “Gah!” he startled, batting at his face as his guards emerged from the
+        cart, looking concerned. Aubre tried to ignore the cacophony going on
+        behind them as she mentally mapped the route down. Once they descended,
+        it would be impossible to get the same view again, and one wrong turn
+        with the hurcha as heavily loaded as it was could spell disaster.{" "}
       </p>
-      <p>“What?”</p>
+      <p>There was a flash of silver and a crack like thunder. </p>
+      <p>“What was that?” said the prince.</p>
       <p>
-        Lanoire’s voice bounced back off the ice so loudly, the water in the
-        pool vibrated. She lowered her ears, mollified by the echo. “But why?”
-      </p>
-      <p>
-        “Shh,” hissed her mother, her eyes cutting toward the ceiling. The
-        morning light made thin yellow beams in the air, where a single droplet
-        of snowmelt could be seen spiraling off an icicle and into the pool
-        below, causing rings to radiate across the still water.
-      </p>
-      <p>
-        Her mother frowned, looking at her imploringly. “Lanoire, a small change
-        in routine does not excuse you from your responsibilities. Consider your
-        studies before yourself, for a change.”
+        Aubre turned to silence him, unable to ignore his antics any longer,
+        when from the rim of the canyon she saw what she first thought was
+        falling snow, but then she blinked, and saw it to be see tens of
+        wildcats descending the steep walls of the Gokyo Ri with long ice-blue
+        spears clutched in their handpaws.
       </p>
       <p>
-        Lanoire stared down the slate tablets as if they were opponents in a
-        fight. At the door, her mother held her gaze, the blue of the temple
-        refracting off her steely gray eyes.
+        Aubre screamed, pointing at the mountain. At this, all conversation
+        ceased and everyone turned to look first at Aubre, and then at where she
+        was pointing. Like the animal in the back of the hurcha, the creatures
+        moved like mankind, but they all had the same catlike features,
+        including heavy fur coats and long tails curling out behind them for
+        balance. Aubre was petrified, unable to even think as the creatures ran
+        at them with the intensity of an avalanche; a singular force of
+        white-fur, as unstoppable as the real thing.
       </p>
     </div>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-4.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
     </div>
     <div className={style.copy}>
+      <p>“Get down!”</p>
       <p>
-        “I'll be back soon enough, and'll be expecting a summary with emphasis
-        on the <i>many functions</i> of Polynasium when I return."
+        No sooner than Aubre heard her father shout, he jumped on top of her and
+        a spear the length of Aubry’s entire torso thudded through one of the
+        princes guards before shattering like ice against the canyon. Aubre
+        screamed again before her father grabbed her by the soulders and shoved
+        her toward the drivers seat, jumping in after her and cracking the reins
+        over the yaks shoulders like a madman.
       </p>
       <p>
-        Lanoire didn't even know what that word meant, but her mother
-        disappeared before she could argue, and the temple quickly settled into
-        it's all-encompassing silence. It was still early in the morning, and
-        who knew when her mother would return? Lanoire sighed. There was little
-        else to do but read.
+        When Aubre looked over her shoulder, she saw so much blood pouring over
+        the snow, it was like a bottle of wine had broken. The prince had barely
+        closed the door of the hurcha when they were overtaken by white fur and
+        claws. In less time than it took to blink, a pair of huge white handpaws
+        wrapped around the prince’s torso and ripped him from the small wagon
+        window.
       </p>
       <p>
-        Studying the Panthera was almost as grueling as the walk to the temple.
-        The tablets had been compiled by many generations of handpaws, the
-        oldest stones so smooth that the inscriptions were barely legible. All
-        clades of Animalkind had their own such texts; words of law, territory
-        and culture.
+        “Shahzade!” Aubre screamed, but her father pulled her close so she
+        couldn’t see. Driven by instinctive terror, the yaks made a mad dash
+        down the slope, crashing through the undergrowth as the cart slid at
+        crazy angles. It took Aubre a moment to realize that her father was
+        speaking, not to her, but to himself. A prayer, eyes closed as the yaks
+        drove themselves.
       </p>
       <p>
-        The clade of Canidae had their Dogan Ra, most Avian lived according to
-        the commandments in their Stardex, but even though her parents had
-        inscribed some of the more recent inserts of the Panthera themselves,
-        the writing was archaic and difficult to understand. A whole hour passed
-        and the words still swam in front of her eyes, the drawings of the
-        clades blurring together.
-      </p>
-      <p>
-        <i>Leonen, Tigren, Jaguarn, Caraclene.</i>
-      </p>
-      <p>
-        She knew some of the others, but not well. Canidae had their
-        <i> Dogan, Cyrote</i>, and <i>Wolf</i>, while the Avian were made up of
-        long-feathered <i>Strigine</i> and colorful <i>Sitisine</i>, and
-        according to her parents, had once been made up of many others.
-      </p>
-      <p>
-        There was a deep groan of ice from the glacier, followed by a resounding
-        crack that made her jump. Except this time, instead of the usual quiet
-        that resumed after the ice shifted, the sound was accompanied by
-        whispers and clumsy footfalls. She stiffened in disbelief — two
-        interruptions in one day? Was nothing sacred anymore? Her green eyes
-        appeared bright blue as she searched the echoing chamber.
-      </p>
-      <p>“Noire,” said a voice.</p>
-      <p>
-        “Mother?” she said, but even as she said it, she knew the voices didn’t
-        match. It was too high, too wavering.
-      </p>
-      <p>
-        She turned to see two faces peering around the columns of the Temple of
-        Bast. Her brothers, Sabin and Nasir, both looking around in amazement.
+        With a stab of panic, Aubre took the reins, doing her best to keep
+        control of the cart. Behind them, more wildcats emerged, leaping down
+        the mountainside with impossible speed. Two especially fast,
+        silver-white animals had outpaced the rest and were quickly closing the
+        distance between the cart as tears began to whip at Aubre’s eyes. She
+        used one hand to give her father a good shake.
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-12.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
     </div>
     <div className={style.copy}>
       <p>
-        “What are you two doing here?” she growled, unable to hide her surprise.
-        Puffs of ice evaporated on her breath.
+        “Papa!” she screamed. “You have to do something, there’s too many of
+        them!”
       </p>
       <p>
-        Sabin, who was younger than Nasir, but still older than Lanoire by
-        several minutes was the first to speak.
+        As if she’d broken some kind of trance, Astly Fauchard leapt into
+        action, his military days coming back at once. He reached for the
+        Alsaint-made rifle that he’d stowed under the wooden seat and thumbed
+        through his pockets for ammunition. The muscles in Aubre’s arms felt
+        like they were going to tear apart from steering the yaks, when the
+        wagon shuddered as if they’d been hit by a canon.
       </p>
       <p>
-        “It's the herds,” he blurted, his voice echoing through the temple like
-        a gunshot. He was short and stout compared to her oldest brother, with a
-        subtle tint of red to his fur that made his spots appear like rings left
-        behind on a table from creamed tea. “They're descending the Gokyo Ri.”
+        From the corner of Aubre’s eye, she could see an outline of white fur
+        and knew that one of the wildcats had jumped onto the cart. But instead
+        of attacking them, the animal seemed distracted by the carcasses. Aubre
+        wondered if they were just after food when she heard something that
+        didn’t sound like a snarl, or a growl, but a voice.
       </p>
-      <p>
-        Lanoire pinned her ears at this news, crossing her arms. She looked to
-        her eldest brother, who was usually the more trustworthy.
-      </p>
-      <p>
-        “Now? But it isn’t late enough into the season," she responded. Even her
-        mother had said the same, and Lanoire couldn't remember a time when
-        she'd ever been wrong.
-      </p>
-      <p>Nasir only shrugged. “Suppose spring came early this year.”</p>
-      <p>
-        Lanoire searched his face for some crease of a lie. At this altitude,
-        anything larger than rabbits were a rarity, and even those were hard to
-        come by. The herds of Markhorein that lived in the mountains were
-        elusive and kept to the highest, steepest cliffs of the Gokyo Ri, where
-        they could easily disappear.
-      </p>
-      <p>
-        A flash of speartips swam through her memory, Leonen jogging
-        side-by-side through the snow. So she'd been right about the herds. The
-        prospect of such a spectacular hunt made Lanoire’s heart thrill, but
-        skepticism still gripped her.
-      </p>
-      <p>It was too good to be true.</p>
-      <p>
-        “I saw them,” Nasir continued. “Two of the biggest bulls I've ever seen,
-        and a whole bunch of those golden kids. So little, I bet even you could
-        catch one, Noire.”
-      </p>
-      <p>
-        Lanoire pinned her ears at the jibe, but looked between her brothers all
-        the same. She was supposed to be studying, but even if she wanted to,
-        how could she stay indoors now? The mountains called to her like wind to
-        a bird. She barely cast a look over the cool blue walls of the temple
-        before slipping out of her robes and casting aside as many of the
-        traditional crystals she wore as she could before running for the
-        slender beams of daylight at the temples entrance, the slates of the
-        discarded Panthera still scattered across the ice.
-      </p>
+      <p>“Lanoire?” it said.</p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-5.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
     </div>
     <div className={style.copy}>
       <p>
-        Against a near-obliterating backdrop of powdery white snow, it was easy
-        to miss the outlines of three young leonen slinking along the ridgeline.
+        Her father saw his opportunity and leapt up from the drivers seat facing
+        the back of the cart. The animal lingered, its bright blue eyes wrought
+        with confusion, and something else that Aubre didn’t have the time to
+        identify — for the moment it looked up, her father racked his rifle and
+        there was a deafening bang.
       </p>
-      <p>
-        Between the gray-brown streaks of rock and the spindly white birch and
-        aspen trees that still clung on at this altitude, they were practically
-        invisible. The air was thin as a razor blade, but Lanoire was glad to be
-        running. Like her brothers, she relished in her own natural strength,
-        and leapt down narrow crevasses in the mountain without as much as a
-        second glance.
-      </p>
-      <p>
-        Although her brothers were only a few minutes older than she was, they
-        were much larger. Their dark gray baby fur replaced by the same glossy
-        off-white coat shared by rest of her clade two springs ago. Against the
-        snow they were invisible, while Lanoire was forced to hesitate at each
-        clearing.
-      </p>
-      <p>
-        Unlike them, she was easy to spot out in the open, and could easily
-        spook the herd if she moved too quickly. She dashed from boulder to
-        boulder, crouching low against the rough rock face as sweeping gusts of
-        wind threatened to toss her right over the edge.
-      </p>
-    </div>
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-11.jpg" />
-    </div>
-    <div className={style.copy}>
-      <p>
-        “Shouldn’t we go down?” she said in a voice barely above a whisper. She
-        was never allowed this far from the village, and could feel her handpaws
-        trembling in the wind. “If the Markhorein have gone into the valley, we
-        wont run into them from way up here.”
-      </p>
-      <p>
-        Nasir merely scented the air, flattening himself low against the snow as
-        he picked up something on the breeze.
-      </p>
-      <p>
-        "Don't need to run into them,” he said, his voice tremulous with
-        excitement. “They need to run into us. If we stay above them, we have
-        the element of surprise.”
-      </p>
-      <p>"What do you mean?” said Lanoire.</p>
-      <p>
-        "The herd wont stay late in the valley, they’ll come back up
-        eventually,” he said quietly. “And when they do, we'll be ready.”
-      </p>
-      <p>
-        They edged along the rim, carefully picking out a path down the
-        near-vertical grade of the canyon. If they could catch sight of the herd
-        down below, it would merely be a matter of finding a good spot to hide.
-      </p>
-      <p>
-        But with little vegetation able to conceal them as they struck out
-        further on the cliffs, Lanoire felt every hair on the back of her neck
-        standing up. In some places, there was nothing but snow, and what little
-        cover she could find was hunched into narrow gaps in the rock.
-      </p>
-      <p>
-        Suddenly, Nasir stopped, ducking low on a ledge only a little bigger
-        than he was. Lanoire and Sabin followed suit as he pointed to a shady
-        crease in the mountains where a herd of some ten Markhorein stood
-        pulling thick yellow reeds from the still knee-deep snow. They were
-        guarded by a large male with a rack of spiraling black antlers and a tan
-        mane, flit with gray, running down his throat.
-      </p>
-      <p>Nasir licked his lips. “Look at the size of that bull.”</p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-9.jpg" />
-    </div>
-    <div className={style.copy}>
-      <p>
-        Lanoire frowned. The male was larger than the wild horses that roamed
-        the edges of the Black Forest, with a huge rack of spiraling antlers as
-        large as the animal itself. She put a handpaw on her brothers shoulder.
-      </p>
-      <p>“How will we get him out of here with just the three of us?” </p>
-      <p>“Which one, then?” </p>
-      <p>
-        Lanoire scanned the herd thoughtfully. There were two females with young
-        kids by their side and a gang of scrawny yearlings hemming around in the
-        shadows. Lanoire pointed at one of the older females, a hash of silver
-        scars already emblazoned on her shoulder.
-      </p>
-      <p>“That one.”</p>
-      <p>
-        Nasir considered her choice, then said, "Fine," and they struck out
-        again, moving with agonizing slowness as they watched the herd graze in
-        the distance. They were completely unaware of the approaching danger.
-        One of them looked up abruptly, making them all freeze, but its head
-        swiveled around in the opposite direction, its round ears twitching at a
-        sound carrying on the wind.
-      </p>
-      <p>
-        Just as they got close enough to the ledge to make out the herd in
-        detail, a loud bang ricocheted off the Gokyo Ri and the snow under
-        Lanoire’s footpaws give way. Before she could do anything to stop it,
-        she went careening over the cliff in a spray of snow. She thought she
-        saw something glinting on the other side of the canyon, but then her
-        head hit a rock and she went crashing into the ravine, her brothers
-        startled faces the last thing she remembered as the world disappeared
-        behind her.
-      </p>
-    </div>
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-6.jpg" />
+      <p>A spray of red, like shaken wine, and the beast was gone.</p>
     </div>
   </Layout>
 )

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Incurable Talents`,
-    description: `Tired of a life of routine and duty, Lanoire goes hunting in the Gokyo Ri.`,
+    description: `Tired of a life of routine and duty, Lanoire goes hunting in the Gokyo Ri. Read it FREE on incurabletalents.com!`,
     author: `@wokejacqueline`,
   },
   plugins: [
