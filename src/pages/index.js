@@ -34,7 +34,7 @@ const IndexPage = () => (
           <FeaturedSlide
             disabled
             button="Coming Soon"
-            description="The commander of the Honour Guard travels to Natans to see the beasts for himself."
+            description="As lumber delays spike, the commander of the Honour Guard is sent to speak with the Alsaints."
             link="/3-strange-fruit/"
             pov="Elsavere"
             size="200 kb / 19 min read"

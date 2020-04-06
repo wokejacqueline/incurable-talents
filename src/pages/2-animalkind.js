@@ -127,6 +127,11 @@ const SecondPage = () => (
         leather, it was obvious by the hollows under her eyes and the sharp
         slope of her cheekbones that she was rail thin.
       </p>
+    </div>
+    <div className={style.comicPanel}>
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-2.jpg" />
+    </div>
+    <div className={style.copy}>
       <p>
         She helped check the yak’s harnesses while her father looked ahead at
         where the canyon coiled back into the gloom of the forest.
@@ -208,14 +213,8 @@ const SecondPage = () => (
         check by the tie-downs. When they were facing away from the forest, and
         toward the outlet of the Gokyo Ri, he released the slack in the reins,
         and no later, the cart began crackling over the frozen surface of the
-        river, Cho Oyo.
+        river, Choy Oyo.
       </p>
-    </div>
-    {/* The image component thingy */}
-    <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
-    </div>
-    <div className={style.copy}>
       <p>
         Even as the yaks threw their weight into the harnesses, it was difficult
         to get moving across the slippery ice, but once they did, the animals
@@ -332,7 +331,7 @@ const SecondPage = () => (
     </div>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-3.jpg" />
     </div>
     <div className={style.copy}>
       <p>“Get down!”</p>
@@ -370,7 +369,7 @@ const SecondPage = () => (
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-4.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -392,10 +391,10 @@ const SecondPage = () => (
         wondered if they were just after food when she heard something that
         didn’t sound like a snarl, or a growl, but a voice.
       </p>
-      <p>“Lanoire?” it said.</p>
+      <p>“Lanoire?” she thought she heard it say.</p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/2-animalkind-1.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/2-animalkind-5.jpg" />
     </div>
     <div className={style.copy}>
       <p>
