@@ -28,7 +28,7 @@ const IndexPage = () => (
             description="A close encounter with animalkind forces an unexpected detour through Natansi."
             link="/2-animalkind/"
             pov="Aubre"
-            size="195 kb / 21 min read"
+            size="4.11 mb / 20 min read"
             title="2. Animalkind"
           />
           <FeaturedSlide
