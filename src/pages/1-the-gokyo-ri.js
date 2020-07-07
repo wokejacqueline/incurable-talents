@@ -244,7 +244,7 @@ const SecondPage = () => (
     </div>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-3.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-16.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -341,7 +341,7 @@ const SecondPage = () => (
     </div>
     {/* The image component thingy */}
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-4.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-17.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -398,7 +398,7 @@ const SecondPage = () => (
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-12.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-14.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -456,7 +456,7 @@ const SecondPage = () => (
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-5.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-15.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -486,7 +486,7 @@ const SecondPage = () => (
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-11.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-goyko-ri-18.jpg" />
     </div>
     <div className={style.copy}>
       <p>
@@ -569,7 +569,7 @@ const SecondPage = () => (
       </p>
     </div>
     <div className={style.comicPanel}>
-      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-6.jpg" />
+      <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-13.jpg" />
     </div>
   </Layout>
 )
