@@ -41,6 +41,10 @@ const SecondPage = () => (
         A shadow crossed over her mothers face. "The river Oyo is still locked
         in ice, it will be weeks before they descend. You should know this."
       </p>
+
+      <div className={style.comicPanel}>
+        <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-19.jpg" />
+      </div>
       <p>
         Lanoire <i>should</i> have known this - but why else would the tribe's
         warriors be going into the Black Forest?
