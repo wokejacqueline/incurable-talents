@@ -50,9 +50,9 @@ const SecondPage = () => (
         warriors be going into the Black Forest?
       </p>
       <p>
-        According to her mother, spring was still more than a month away - a
-        sense she had after studying the Panthera all her life, and one Lanoire
-        was supposed to have developed by now, too. But even after all her
+        According to her mother, spring was still more than a month away - a
+        sense she had developed studying the <em>Panthera</em> all her life, and
+        one Lanoire was supposed to have by now, too. But even after all her
         mornings studying in the temple, it seemed to her that spring was just
         around the corner. The snow was turning to slush in places, and Lanoire
         couldn't help picturing the lower valley flooded with wildlife,
@@ -266,7 +266,7 @@ const SecondPage = () => (
       <p>
         Lanoire recognized him as one of the tribes warriors, a red Dogan
         longbow strapped to his shoulders and a wolf’s pelt covering most of his
-        torso. He saw Lanoire standing there with the tea and hastily covered
+        torso. He saw Lanoire standing there with the tea and hastily averted
         his eyes, as if he'd caught her undressing.
       </p>
       <p>
@@ -541,11 +541,15 @@ const SecondPage = () => (
     <div className={style.copy}>
       <p>
         Lanoire frowned. The male was larger than the wild horses that roamed
-        the edges of the Black Forest, with a huge rack of spiraling antlers as
-        large as the animal itself. She put a handpaw on her brothers shoulder.
+        the edges of the Black Forest, with a huge rack of spiraling antlers
+        nearly as large as the animal itself. She put a handpaw on her brothers
+        shoulder.
       </p>
       <p>“How will we get him out of here with just the three of us?” </p>
-      <p>“Which one, then?” </p>
+      <p>
+        He seemed annoyed by her interjection, but willing to compromise. “Which
+        one, then?”{" "}
+      </p>
       <p>
         Lanoire scanned the herd thoughtfully. There were two females with young
         kids by their side and a gang of scrawny yearlings hemming around in the
