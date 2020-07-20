@@ -423,6 +423,9 @@ const SecondPage = () => (
         Lanoire pinned her ears at this news, crossing her arms. She looked to
         her eldest brother, who was usually the more trustworthy.
       </p>
+      <div className={style.comicPanel}>
+        <img src="https://incurable.s3.amazonaws.com/1-gokyo-ri-20.jpg" />
+      </div>
       <p>
         “Now? But it isn’t late enough into the season," she responded. Even her
         mother had said the same, and Lanoire couldn't remember a time when
